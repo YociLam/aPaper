@@ -1,6 +1,6 @@
 # aPaper
 
-Current release: [0.1.2 (build 1003)](https://github.com/YociLam/aPaper/releases/tag/v0.1.2-b1003) · macOS 14.6+ / arm64 · ad-hoc / unnotarized / sparkle-eddsa.
+Current release: [0.1.3 (build 1004)](https://github.com/YociLam/aPaper/releases/tag/v0.1.3-b1004) · macOS 14.6+ / arm64 · ad-hoc / unnotarized / sparkle-eddsa.
 
 Carry knowledge forward. Write what comes next.
 

@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.3",
+  "build": 1004,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "ad-hoc",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-10-22T06:27:19Z",
+  "notes": {
+    "en": "Central dialogs now fit their content with one shared inset, avoiding excess blank borders. Quick Cite and other same-window content changes use the shared resize transition. This release also serves as the in-App update target from build 1003. The App is not notarized by Apple.",
+    "zh-Hans": "中央弹窗统一使用一层内边距并按内容适配，减少四周过厚的空白。快速引用等同窗内容切换采用统一尺寸过渡。本版本同时用于从 1003 验证应用内更新。App 尚未经 Apple 公证。",
+    "zh-Hant": "中央彈窗統一使用一層內邊距並依內容調整，減少四周過厚的留白。快速引用等同窗內容切換採用統一尺寸過渡。此版本同時用於從 1003 驗證 App 內更新。App 尚未經 Apple 公證。",
+    "ja": "中央ダイアログの余白と内容に合わせたサイズ調整を統一しました。クイック引用など同じウインドウ内の切り替えで、共通のサイズ変更アニメーションを使います。ビルド1003からのアプリ内更新の検証対象です。Appleの公証はありません。",
+    "ko": "중앙 대화상자의 여백과 콘텐츠에 맞는 크기 조정을 통일했습니다. 빠른 인용 등 같은 창의 콘텐츠 전환에 공통 크기 전환 애니메이션을 사용합니다. 빌드1003에서 앱 내 업데이트를 검증할 대상 버전입니다. Apple 공증은 받지 않았습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.3-b1004",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.3-b1004/aPaper.dmg",
+    "bytes": 450699963,
+    "sha256": "2b7792b41fc4f7e919603c3b0018d69a93b89d98040d3f95e98dd27aa84bd1bc"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.3-b1004",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.3-b1004/aPaper-0.1.3-b1004-macos-arm64.zip",
+    "bytes": 436700855,
+    "sha256": "24b6cd663c0643cdee5f3148fc99356af11c353cfc36e715c25819e56329b74e"
+  }
+}

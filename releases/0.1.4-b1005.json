@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.4",
+  "build": 1005,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "Apple Development",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-10-22T08:33:46Z",
+  "notes": {
+    "en": "This bridge release uses a fixed Apple Development signing identity. After upgrading from build 1004, sign in once; retained login must be verified in a later update signed with the same certificate. Includes unified dialog spacing and motion, and improved PDF metadata fallback. Supports user-consented in-App updates. Same-Mac verification route; not Developer ID signed or notarized by Apple.",
+    "zh-Hans": "本过渡版采用固定 Apple Development 签名。从1004升级后请重新登录一次；后续同证书版本更新再验证保持登录。包含统一弹窗边距与动画及PDF元数据回退改进。支持用户确认后的应用内更新。当前为同机验证路线，非Developer ID签名，未经Apple公证。",
+    "zh-Hant": "本過渡版採用固定 Apple Development 簽章。從1004升級後請重新登入一次；後續同憑證版本更新再驗證保持登入。包含統一對話框邊距與動畫及PDF中繼資料回退改進。支援使用者確認後的App內更新。目前為同機驗證路線，非Developer ID簽章，未經Apple公證。",
+    "ja": "固定のApple Development署名を使用する移行版です。ビルド1004から更新した後は一度ログインしてください。同じ証明書による次回更新でログインの維持を検証します。ダイアログの余白とアニメーション、PDFメタデータのフォールバックを改善しました。同意後のアプリ内更新に対応します。同一Macでの検証用で、Developer ID署名およびAppleの公証はありません。",
+    "ko": "고정 Apple Development 서명을 사용하는 전환 버전입니다. 빌드1004에서 업데이트한 뒤 한 번 로그인해 주세요. 동일 인증서를 사용하는 다음 업데이트에서 로그인 유지를 검증합니다. 대화상자 여백과 애니메이션, PDF 메타데이터 대체 처리를 개선했습니다. 사용자 동의 후 앱 내 업데이트를 지원합니다. 동일 Mac 검증 경로이며 Developer ID 서명 및 Apple 공증은 없습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.4-b1005",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.4-b1005/aPaper.dmg",
+    "bytes": 450764914,
+    "sha256": "cabfc20d808b54d68d6ab7dc9e001eae312a85a74a6a0b29048443a6928f15de"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.4-b1005",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.4-b1005/aPaper-0.1.4-b1005-macos-arm64.zip",
+    "bytes": 436808876,
+    "sha256": "840ab0a38480f8c14fb010aafd9c123bdf795d3fecf92dcbf32db6d5cf6bdad9"
+  }
+}

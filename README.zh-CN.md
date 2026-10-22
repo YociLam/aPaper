@@ -1,6 +1,6 @@
 # aPaper
 
-当前发布：[0.1.3 (build 1004)](https://github.com/YociLam/aPaper/releases/tag/v0.1.3-b1004) · macOS 14.6+ / arm64 · ad-hoc / unnotarized / sparkle-eddsa.
+当前发布：[0.1.4 (build 1005)](https://github.com/YociLam/aPaper/releases/tag/v0.1.4-b1005) · macOS 14.6+ / arm64 · Apple Development / unnotarized / sparkle-eddsa.
 
 承接知识，写出新的研究。
 

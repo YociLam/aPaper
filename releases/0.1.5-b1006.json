@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.5",
+  "build": 1006,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "Apple Development",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-10-22T10:22:00Z",
+  "notes": {
+    "en": "Mentor, Insight and Workbench prioritize model configuration guidance when no paper or project is selected. Workbench hides its input without a project; Steward retains its input. The update-check button now uses the shorter “Checking…” label. Application signing, the update channel and account session storage remain unchanged for the signed update test. User-consented in-App download, installation and relaunch remain available. Apple Development signed; not notarized by Apple.",
+    "zh-Hans": "未选择论文或项目时，Mentor、Insight和工作台优先提示配置模型。工作台未选项目时隐藏输入框，Steward保留输入框。检查更新按钮在检查时显示简短的“检查中…”。保持App签名、更新通道和账号会话存储不变，用于同签名升级验证。继续支持用户确认后的应用内下载、安装和重启。采用Apple Development签名，未经Apple公证。",
+    "zh-Hant": "未選擇論文或專案時，Mentor、Insight和工作台優先提示設定模型。工作台未選專案時隱藏輸入框，Steward保留輸入框。檢查更新按鈕在檢查時顯示簡短的「檢查中…」。保持App簽章、更新通道與帳戶工作階段儲存不變，用於同簽章升級驗證。繼續支援使用者確認後的App內下載、安裝和重新啟動。採用Apple Development簽章，未經Apple公證。",
+    "ja": "論文やプロジェクトを選択していない場合も、Mentor、Insight、Workbenchではモデル設定の案内を優先します。Workbenchはプロジェクト未選択時に入力欄を非表示にし、Stewardの入力欄は維持します。更新確認ボタンの実行中の表示を「確認中…」に短縮しました。同じ署名での更新を検証するため、アプリの署名、更新チャネル、アカウントセッションの保存方式は維持しています。同意後のアプリ内ダウンロード、インストール、再起動に対応します。Apple Development署名を使用し、Appleの公証はありません。",
+    "ko": "논문이나 프로젝트를 선택하지 않아도 Mentor, Insight 및 Workbench는 모델 설정 안내를 우선 표시합니다. Workbench는 프로젝트 미선택 시 입력란을 숨기며 Steward의 입력란은 유지합니다. 업데이트 확인 버튼의 진행 문구를 “확인 중…”으로 줄였습니다. 동일 서명 업데이트 검증을 위해 앱 서명, 업데이트 채널 및 계정 세션 저장 방식을 유지합니다. 사용자 동의 후 앱 내 다운로드, 설치 및 재시작을 지원합니다. Apple Development 서명을 사용하며 Apple 공증은 없습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.5-b1006",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.5-b1006/aPaper.dmg",
+    "bytes": 450713089,
+    "sha256": "8dae330f8f922af641f9d1b2ceb74e3192796b2ba71da887eab23106338aaaca"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.5-b1006",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.5-b1006/aPaper-0.1.5-b1006-macos-arm64.zip",
+    "bytes": 436809294,
+    "sha256": "de4b115cd05905d45b200bf0e55371eead19f192f7a55eeb1c79244af824c4c8"
+  }
+}

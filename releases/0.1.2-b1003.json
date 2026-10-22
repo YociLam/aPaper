@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.2",
+  "build": 1003,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "ad-hoc",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-10-22T04:36:59Z",
+  "notes": {
+    "en": "The Daily Reading Edit button now shows text at normal widths and a pencil icon only in compact layouts. This version configures the production-signed in-App update channel. Versions 1001/1002 require a one-time DMG installation. The App is not notarized by Apple.",
+    "zh-Hans": "每日阅读的编辑按钮在正常宽度只显示文字，空间不足时显示铅笔图标。本版本配置生产签名的应用内更新通道。1001/1002 版本需先通过 DMG 覆盖安装一次。App 尚未经 Apple 公证。",
+    "zh-Hant": "每日閱讀的編輯按鈕在正常寬度只顯示文字，空間不足時顯示鉛筆圖示。此版本設定正式簽章的 App 內更新通道。1001/1002 版本需先透過 DMG 覆蓋安裝一次。App 尚未經 Apple 公證。",
+    "ja": "毎日の読書の編集ボタンは通常は文字のみを表示し、幅が狭い場合だけ鉛筆アイコンを表示します。本番署名を使用するアプリ内更新チャネルを設定しました。ビルド1001/1002からは一度DMGでインストールしてください。Appleの公証はありません。",
+    "ko": "매일 읽기의 편집 버튼은 일반 너비에서 텍스트만 표시하고 공간이 부족할 때 연필 아이콘을 표시합니다. 프로덕션 서명을 사용하는 앱 내 업데이트 채널을 구성했습니다. 빌드1001/1002에서는 한 번 DMG로 덮어 설치해야 합니다. Apple 공증은 받지 않았습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.2-b1003",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.2-b1003/aPaper.dmg",
+    "bytes": 450703936,
+    "sha256": "2d8d9a1f757e2b982d4b16858e8e8ad426d60d7819ec6917b0a070b095928d57"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.2-b1003",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.2-b1003/aPaper-0.1.2-b1003-macos-arm64.zip",
+    "bytes": 436701958,
+    "sha256": "39b865d0fa52aad5fa796c39c42826cc7504af9ab02a89c7c8ca9cb4510fd261"
+  }
+}

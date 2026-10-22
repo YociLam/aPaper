@@ -1,5 +1,7 @@
 # aPaper
 
+Current release: [0.1.1 (build 1002)](https://github.com/YociLam/aPaper/releases/tag/v0.1.1-b1002) · macOS 14.6+ / arm64 · ad-hoc / unnotarized / manual-download.
+
 Carry knowledge forward. Write what comes next.
 
 Discover papers, read and understand ideas, connect research knowledge, and write with your own model providers. aPaper is a native Mac application.
@@ -8,7 +10,6 @@ Discover papers, read and understand ideas, connect research knowledge, and writ
 
 ## Downloads
 
-The first public installer is being prepared. No public binary release is announced by this repository initialization. When published, use the exact versioned **aPaper.dmg** asset in [Releases](https://github.com/YociLam/aPaper/releases), and compare its SHA-256 with the release notes.
 
 Requirements: **macOS 14.6 or later, Apple silicon (arm64)**. Intel Mac, Windows and Linux packages are not currently available.
 

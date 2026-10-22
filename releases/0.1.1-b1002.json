@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.1",
+  "build": 1002,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "ad-hoc",
+  "notarized": false,
+  "installMode": "manual-download",
+  "automaticInstallation": false,
+  "publishedAt": "2026-10-22T03:49:03Z",
+  "notes": {
+    "en": "aPaper version maintenance and installation verification, with consistent package permissions. Translation resources are included in the App. Version checks open the official download page. Manual installation; not notarized by Apple.",
+    "zh-Hans": "aPaper 版本维护与安装验证更新，统一安装包权限。翻译资源随 App 一起分发。检查新版本后打开官网下载页面，采用手动安装。本安装包未经 Apple 公证。",
+    "zh-Hant": "aPaper 版本維護與安裝驗證更新，統一安裝套件權限。翻譯資源隨 App 一起分發。檢查新版本後開啟官網下載頁面，採用手動安裝。此安裝套件未經 Apple 公證。",
+    "ja": "aPaper のバージョン管理とインストール検証の更新です。パッケージのアクセス権を統一し、翻訳リソースを App に同梱しています。新しいバージョンの確認後に公式ダウンロードページを開きます。手動インストール用で、Apple の公証はありません。",
+    "ko": "aPaper 버전 관리 및 설치 검증 업데이트로 패키지 권한을 일치시켰습니다. 번역 리소스는 App에 포함됩니다. 새 버전을 확인하면 공식 다운로드 페이지를 엽니다. 수동 설치용이며 Apple 공증을 받지 않았습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.1-b1002",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1002/aPaper.dmg",
+    "bytes": 450696363,
+    "sha256": "2dea6dd0e249cf22cfba7f442566169470668d87784654e97ac20f60473c014b"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.1-b1002",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.1-b1002/aPaper-0.1.1-b1002-macos-arm64.zip",
+    "bytes": 436700919,
+    "sha256": "effcbe743b770df2a7566af2c29b47328327919b3bdf69de4f24f07af0a535be"
+  }
+}

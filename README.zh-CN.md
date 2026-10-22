@@ -1,12 +1,13 @@
 # aPaper
 
+当前发布：[0.1.1 (build 1002)](https://github.com/YociLam/aPaper/releases/tag/v0.1.1-b1002) · macOS 14.6+ / arm64 · ad-hoc / unnotarized / manual-download.
+
 承接知识，写出新的研究。
 
 aPaper 是原生 Mac 应用，用于发现论文、阅读理解、连接研究知识，并通过个人模型服务开展写作。
 
 [English](README.md) · [官网](https://apaper.ai) · [安装说明](INSTALL.md) · [安全报告](SECURITY.md)
 
-首个公开安装包正在准备中。本次仓库初始化不代表二进制已发布。正式提供后，请从 [Releases](https://github.com/YociLam/aPaper/releases) 选择明确版本的 **aPaper.dmg**，核对发布说明中的 SHA-256。
 
 要求：**macOS 14.6 或以上、Apple silicon（arm64）**。目前没有 Intel Mac、Windows 或 Linux 安装包。
 

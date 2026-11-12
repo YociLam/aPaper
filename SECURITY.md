@@ -1,5 +1,5 @@
-# Security reports
+# Security / 安全报告
 
-Report suspected security problems privately to [contact@apaper.ai](mailto:contact@apaper.ai), with the App version, macOS version and a minimal description. Do not include passwords, session tokens, private research documents, database dumps or signing keys. Please avoid public disclosure of details that expose other users until the issue can be assessed.
+Report security issues privately to [contact@apaper.ai](mailto:contact@apaper.ai). Include the aPaper version, macOS version, and steps to reproduce the issue. Please redact credentials and private research data.
 
-No response-time or support-window guarantee is made here. Release checksums, signing status and installation capabilities are stated for each actual release.
+安全问题请通过 [contact@apaper.ai](mailto:contact@apaper.ai) 私下报告，附上 aPaper 版本、macOS 版本与复现步骤。请移除凭据及私人研究资料。

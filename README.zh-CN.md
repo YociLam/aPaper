@@ -7,7 +7,7 @@
 
 **为 Mac 打造的 AI 原生研究工作空间。**
 
-aPaper 将文献发现、阅读、知识整理与论文写作连接在同一个应用中。从最初的问题到下一份稿件，让论文、原文证据和你自己的研究积累始终相连。
+aPaper 是用于发现、阅读和研究学术论文的原生 Mac 应用。它将文献库、基于原文证据的 AI 辅助和论文写作工作台整合在一起，支持从文献发现到稿件写作的研究过程。
 
 [官网](https://apaper.ai/zh-hans) · [版本发布](https://github.com/YociLam/aPaper/releases) · [安装说明](INSTALL.md) · [反馈建议](https://github.com/YociLam/aPaper/issues)
 

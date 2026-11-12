@@ -7,11 +7,11 @@
 
 **An AI-native research workspace for Mac.**
 
-aPaper brings literature discovery, reading, knowledge organization, and manuscript writing into one application. Keep your papers, the evidence behind them, and your own research connected from the first question to the next draft.
+aPaper is a native Mac application for finding, reading, and working with research papers. It combines a literature library, evidence-based AI assistance, and a manuscript workspace to support your research from discovery to writing.
 
 [Website](https://apaper.ai) · [Releases](https://github.com/YociLam/aPaper/releases) · [Installation](INSTALL.md) · [Feedback](https://github.com/YociLam/aPaper/issues)
 
-## Features
+## Key features
 
 - **Discover literature** — Follow academic sources and find new papers in your field.
 - **Organize your library** — Manage papers, metadata, and projects. Import PDFs, folders, or a one-time copy of your Zotero library.
@@ -26,7 +26,7 @@ Papers and notes are managed in a local library. AI features use the model servi
 
 **macOS 14.6 or later · Apple silicon**
 
-For versioned installers and release notes, see [GitHub Releases](https://github.com/YociLam/aPaper/releases). See the [installation guide](INSTALL.md) for installation and verification instructions.
+Visit [GitHub Releases](https://github.com/YociLam/aPaper/releases) for published versions and release notes. Installation and download verification are covered in the [installation guide](INSTALL.md).
 
 ## Feedback and support
 

@@ -42,8 +42,6 @@ aPaper 支持 **Apple silicon Mac，要求 macOS 14.6 或更高版本**。已发
 
 本仓库提供 aPaper 产品介绍与版本发布，应用源码暂不公开。[aPaper-Cloud](https://github.com/YociLam/aPaper-Cloud) 维护更新归档与公开研究元数据。
 
-## 优质服务合作伙伴
+## 服务合作伙伴
 
-<a href="https://api.ergouzi.life/"><img src="assets/dogzee-partner.zh-CN.png" alt="Dogzee — aPaper 的优质 API 服务合作伙伴" width="980"></a>
-
-访问 [Dogzee](https://api.ergouzi.life/)，了解 API 服务，为研究工作流选择合适的模型接入方式。
+<p><a href="https://api.ergouzi.life/"><img src="assets/dogzee-mark-muted.png" alt="Dogzee" width="24" height="24"></a> <strong>Dogzee</strong><br><sub>Dogzee 提供 API 服务，可为 aPaper 的研究工作流提供模型接入。 <a href="https://api.ergouzi.life/">了解更多</a></sub></p>

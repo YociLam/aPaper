@@ -5,8 +5,8 @@
 <p align="center">发现论文，围绕原文深入阅读，将理解连接成知识，再写成自己的研究。</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-555555" alt="macOS 14.6 或更高版本">
-  <img src="https://img.shields.io/badge/chip-Apple%20silicon-555555" alt="Apple silicon">
+  <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0%20%28preparing%29-2563eb" alt="0.1.0 — 准备中"></a>
+  <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-16a085" alt="macOS 14.6 或更高版本">
 </p>
 
 <p align="center"><strong>官方网站：<a href="https://apaper.ai/zh-hans">apaper.ai</a></strong></p>

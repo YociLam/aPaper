@@ -52,8 +52,8 @@ aPaper 支持 **Apple silicon Mac，要求 macOS 14.6 或更高版本**。已发
 
 ## 服务合作伙伴
 
-<p><a href="https://api.ergouzi.life/"><img src="assets/dogzee.png" alt="Dogzee" width="40"></a> <strong><a href="https://api.ergouzi.life/">Dogzee</a></strong></p>
+<h3><a href="https://api.ergouzi.life/"><img src="assets/dogzee.png" alt="Dogzee API 服务平台" width="40"> Dogzee API 服务平台</a></h3>
 
-Dogzee 是 aPaper 的 API 服务合作伙伴，为 AI 辅助研究工作流提供模型服务接入。你可以在 aPaper 中配置兼容的模型服务，用于论文阅读、讨论与文稿写作。可用模型、价格及服务政策以 Dogzee 提供的信息为准。
+Dogzee API 服务平台是 aPaper 的 API 服务合作伙伴，为 AI 辅助研究工作流提供模型服务接入。你可以在 aPaper 中配置兼容的模型服务，用于论文阅读、讨论与文稿写作。可用模型、价格及服务政策以 Dogzee 提供的信息为准。
 
 访问 [api.ergouzi.life](https://api.ergouzi.life/)，了解服务详情并获取 API 密钥。

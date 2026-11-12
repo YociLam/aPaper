@@ -44,8 +44,6 @@ This repository hosts aPaper's product information and releases. The application
 
 ## Service partner
 
-<img src="assets/dogzee.png" alt="Dogzee" width="48">
+<a href="https://api.ergouzi.life/"><img src="assets/dogzee-partner.en.png" alt="Dogzee — an API service partner for aPaper" width="980"></a>
 
-**Dogzee**
-
-Dogzee is aPaper’s trusted API service partner.
+Explore [Dogzee](https://api.ergouzi.life/) for API services to support your research workflow.

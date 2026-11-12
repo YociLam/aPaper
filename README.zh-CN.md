@@ -44,8 +44,6 @@ aPaper 支持 **Apple silicon Mac，要求 macOS 14.6 或更高版本**。已发
 
 ## 优质服务合作伙伴
 
-<img src="assets/dogzee.png" alt="Dogzee" width="48">
+<a href="https://api.ergouzi.life/"><img src="assets/dogzee-partner.zh-CN.png" alt="Dogzee — aPaper 的优质 API 服务合作伙伴" width="980"></a>
 
-**Dogzee**
-
-Dogzee — aPaper 的优质 API 服务合作伙伴。
+访问 [Dogzee](https://api.ergouzi.life/)，了解 API 服务，为研究工作流选择合适的模型接入方式。

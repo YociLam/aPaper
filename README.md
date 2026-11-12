@@ -41,3 +41,11 @@ For private support, email [contact@apaper.ai](mailto:contact@apaper.ai). Report
 ## About this repository
 
 This repository hosts aPaper's product information and releases. The application source is private. [aPaper-Cloud](https://github.com/YociLam/aPaper-Cloud) maintains update archives and public research metadata.
+
+## Service partner
+
+<img src="assets/dogzee.png" alt="Dogzee" width="48">
+
+**Dogzee**
+
+Dogzee is aPaper’s trusted API service partner.

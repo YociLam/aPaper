@@ -1,42 +1,39 @@
-<p align="center">
-  <a href="https://apaper.ai"><img src="assets/apaper-hero.png" alt="aPaper — passing knowledge forward" width="100%"></a>
-</p>
-
 <div align="center">
-  <h1>Less time. More insight.</h1>
-  <p>An AI-native research workspace for Mac.</p>
-  <p><a href="https://apaper.ai">Explore aPaper</a> &nbsp; · &nbsp; <a href="https://github.com/YociLam/aPaper/releases">Releases</a> &nbsp; · &nbsp; <a href="https://github.com/YociLam/aPaper/issues">Feedback</a></p>
-  <p><a href="README.zh-CN.md">简体中文</a></p>
+  <img src="./assets/aPaper.png" alt="aPaper" width="980">
+  <p><strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a></p>
 </div>
 
-<br>
+# aPaper
 
-## From literature to your next study.
+**An AI-native research workspace for Mac.**
 
-aPaper brings paper discovery, close reading, knowledge, and writing into one workspace. Follow new research, ask questions with the original paper beside you, and carry what you learn into work of your own.
+aPaper brings literature discovery, reading, knowledge organization, and manuscript writing into one application. Keep your papers, the evidence behind them, and your own research connected from the first question to the next draft.
 
-**Discover.** Follow academic sources and organize your papers. Bring your existing library with PDF, folder, and one-time Zotero imports.
+[Website](https://apaper.ai) · [Releases](https://github.com/YociLam/aPaper/releases) · [Installation](INSTALL.md) · [Feedback](https://github.com/YociLam/aPaper/issues)
 
-**Understand.** Find the question, method, and contribution behind a paper. Explore it with Mentor and follow answers back to their evidence.
+## Features
 
-**Connect.** Keep findings, concepts, and questions linked to their sources, ready to return to as your research develops.
+- **Discover literature** — Follow academic sources and find new papers in your field.
+- **Organize your library** — Manage papers, metadata, and projects. Import PDFs, folders, or a one-time copy of your Zotero library.
+- **Understand papers** — Explore research questions, methods, contributions, and limitations with Insight.
+- **Read with Mentor** — Ask questions about a paper and trace answers back to the original evidence.
+- **Build research knowledge** — Connect concepts, findings, and questions to their sources, and return to them in later work.
+- **Write and revise** — Work on manuscript projects with a LaTeX editor, PDF preview, and research assistant.
 
-**Create.** Write in a project workspace with a LaTeX editor, PDF preview, and a research assistant alongside you.
+Papers and notes are managed in a local library. AI features use the model service you configure and send relevant content to that service when used.
 
-<br>
+## Download
 
-## aPaper for Mac
+**macOS 14.6 or later · Apple silicon**
 
-Apple silicon · macOS 14.6 or later.
+For versioned installers and release notes, see [GitHub Releases](https://github.com/YociLam/aPaper/releases). See the [installation guide](INSTALL.md) for installation and verification instructions.
 
-[Versions and downloads](https://github.com/YociLam/aPaper/releases) &nbsp; · &nbsp; [Installation](INSTALL.md)
+## Feedback and support
 
-Your papers and notes live in a local library. AI features use the model service you configure; relevant content is sent to that service when used.
+For bug reports and feature requests, [open an issue](https://github.com/YociLam/aPaper/issues). Include your aPaper version, macOS version, and steps to reproduce the problem.
 
-<br>
+For private support, contact [contact@apaper.ai](mailto:contact@apaper.ai). Please report security issues using [SECURITY.md](SECURITY.md), and remove credentials or private research data from shared logs.
 
 ---
 
-[Website](https://apaper.ai) &nbsp; · &nbsp; [Support](mailto:contact@apaper.ai) &nbsp; · &nbsp; [Security](SECURITY.md)
-
-<sub>This repository hosts product information and releases. The application source is private.</sub>
+This repository contains aPaper's product information and releases. The application source is private. Update archives and public research metadata are maintained in [aPaper-Cloud](https://github.com/YociLam/aPaper-Cloud).

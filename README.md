@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/aPaper.png" alt="aPaper" width="980">
+</p>
+
 <h1 align="center">aPaper</h1>
 
 <h3 align="center">An AI-native research workspace for Mac</h3>

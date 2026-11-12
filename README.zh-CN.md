@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/aPaper.png" alt="aPaper" width="980">
+</p>
+
 <h1 align="center">aPaper</h1>
 
 <h3 align="center">为 Mac 打造的 AI 原生研究工作空间</h3>

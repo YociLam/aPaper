@@ -1,67 +1,143 @@
 <div align="center">
-  <img src="assets/apaper-mark.png" alt="aPaper" width="96" height="96">
-  <h1>aPaper</h1>
-  <p><strong>Less time. More insight.</strong></p>
-  <p>A native Mac workspace for discovering papers, understanding ideas,<br>connecting knowledge, and writing your next study.</p>
-  <p><a href="https://apaper.ai">Website</a> · <a href="#download">Download</a> · <a href="RELEASES.md">Release notes</a> · <a href="https://github.com/YociLam/aPaper/issues">Feedback</a></p>
+  <a href="https://apaper.ai"><img src="assets/apaper-hero.png" alt="aPaper — 官网手绘品牌首图：双手传递地球" width="100%"></a>
+  <h1>Less time. More insight.</h1>
+  <p>Discover papers. Understand ideas. Connect knowledge.<br>Create new research on what you already understand.</p>
+  <p><strong>An AI-native research workspace, built for Mac.</strong></p>
+  <p><a href="https://apaper.ai">Website</a> &nbsp; / &nbsp; <a href="#product">Explore</a> &nbsp; / &nbsp; <a href="#download">Download</a> &nbsp; / &nbsp; <a href="RELEASES.md">Release notes</a> &nbsp; / &nbsp; <a href="https://github.com/YociLam/aPaper/issues">Feedback</a></p>
   <p><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
+  <p><sub>macOS 14.6+ &nbsp; · &nbsp; Apple silicon &nbsp; · &nbsp; First release 0.1.0 in preparation</sub></p>
 </div>
 
-![aPaper Library with a demonstration research collection](assets/screenshots/library.en.webp)
+---
 
-Research rarely happens in one step. A paper leads to a question, a passage becomes a note, and an idea returns when you begin to write. aPaper brings those steps into one workspace, keeping your papers, their evidence, and your own work within reach.
+<a id="product"></a>
 
-## From literature to manuscript
+## From literature to manuscript.
 
-| | What you can do |
-| --- | --- |
-| **Daily Research** | Follow academic sources and find new papers in your field. |
-| **Library** | Organize papers, metadata, and projects. Import individual PDFs, folders, or a one-time copy of your Zotero library. |
-| **Insight** | Get an overview of a paper's question, method, contributions, and limitations before reading closely. |
-| **Mentor** | Ask questions as you read, with source-linked answers you can check against the paper. |
-| **Knowledge** | Connect findings, concepts, and research questions with their supporting evidence, then return to them in later work. |
-| **Research Workbench** | Write in a project workspace, build and preview LaTeX manuscripts, and work with a research assistant. |
+Research is more than collecting papers. aPaper connects discovery, close reading, research knowledge, and writing so your questions, evidence, and judgement can carry forward in one workspace.
 
-### Read with the evidence beside you
+<table>
+  <tr>
+    <td width="25%" align="center"><sub>01</sub><br><strong>Discover</strong></td>
+    <td width="25%" align="center"><sub>02</sub><br><strong>Understand</strong></td>
+    <td width="25%" align="center"><sub>03</sub><br><strong>Connect</strong></td>
+    <td width="25%" align="center"><sub>04</sub><br><strong>Create</strong></td>
+  </tr>
+</table>
 
-Move between a question, its explanation, and the original passage without losing your place in the paper.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icons/sun-horizon.svg" width="28" height="28" alt="">
+      <p><sub>01 &nbsp; / &nbsp; DISCOVER</sub></p>
+      <h3>Daily Research</h3>
+      <p><strong>Start each day with what is worth reading.</strong></p>
+      <p>Follow academic sources in your field and find new papers gathered in one place.</p>
+      <p><a href="https://apaper.ai#chapter-daily">Explore on the website ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icons/book-open-text.svg" width="28" height="28" alt="">
+      <p><sub>02 &nbsp; / &nbsp; DISCOVER</sub></p>
+      <h3>Library</h3>
+      <p><strong>Every paper in its place.</strong></p>
+      <p>Keep papers, metadata, and projects together. Bring a Zotero library across, or import a paper or a folder.</p>
+      <p><a href="https://apaper.ai#chapter-library">Explore on the website ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icons/lightbulb.svg" width="28" height="28" alt="">
+      <p><sub>03 &nbsp; / &nbsp; UNDERSTAND</sub></p>
+      <h3>Insight</h3>
+      <p><strong>See the structure before the detail.</strong></p>
+      <p>Grasp the research question, method, contribution, and limitations before the close reading.</p>
+      <p><a href="https://apaper.ai#chapter-insight">Explore on the website ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icons/chat-text.svg" width="28" height="28" alt="">
+      <p><sub>04 &nbsp; / &nbsp; UNDERSTAND</sub></p>
+      <h3>Mentor</h3>
+      <p><strong>Every answer has a source.</strong></p>
+      <p>Ask about the paper in front of you. Follow source-linked answers back to the original passages.</p>
+      <p><a href="https://apaper.ai#chapter-mentor">Explore on the website ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/icons/clock-counter-clockwise.svg" width="28" height="28" alt="">
+      <p><sub>05 &nbsp; / &nbsp; CONNECT</sub></p>
+      <h3>Recall</h3>
+      <p><strong>What you read stays within reach.</strong></p>
+      <p>Keep concepts, findings, and questions tied to their evidence. Review AI candidates before they become knowledge.</p>
+      <p><a href="https://apaper.ai#chapter-recall">Explore on the website ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/icons/file-text.svg" width="28" height="28" alt="">
+      <p><sub>06 &nbsp; / &nbsp; CREATE</sub></p>
+      <h3>Research Workbench</h3>
+      <p><strong>Write what you understand.</strong></p>
+      <p>Organize manuscript projects, write and preview LaTeX, and revise with a research assistant alongside you.</p>
+      <p><a href="https://apaper.ai#chapter-workbench">Explore on the website ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-![Mentor explaining self-attention beside the source paper](assets/screenshots/mentor.en.webp)
+<a id="download"></a>
 
-### Build on what you understand
+## Make room for your next study.
 
-Bring your notes and research questions into a manuscript. Keep project files, the editor, PDF preview, and assistant together as you revise.
+> **aPaper 0.1.0 is in preparation.** No public installer or release date is available yet.
 
-![Research Workbench with a demonstration manuscript and PDF preview](assets/screenshots/workbench.en.webp)
+The first release is for **Apple silicon Macs · macOS 14.6 or later**. Intel Mac, Windows, and Linux packages are not currently available.
 
-*Screenshots use a demonstration workspace. AI responses are examples; check conclusions and citations against the original sources.*
+[Release status →](RELEASES.md) &nbsp; · &nbsp; [Installation guide](INSTALL.md)
 
-## Download
+<details>
+<summary><strong>How will I download and install it?</strong></summary>
 
-**The first public release, aPaper 0.1.0, is in preparation. No installer is available from this repository yet.**
+Download the versioned `aPaper.dmg` asset from this repository's Releases when published. The actual package will include its size, SHA-256, signing and notarization status, and supported update behavior. GitHub's automatic Source code archives are repository snapshots.
 
-| Platform | Requirements | Availability |
-| --- | --- | --- |
-| macOS | Apple silicon · macOS 14.6 or later | 0.1.0 in preparation |
-| Intel Mac, Windows, Linux | — | No package available |
+</details>
 
-Once published, the versioned **`aPaper.dmg`** asset will appear in [Releases](https://github.com/YociLam/aPaper/releases). The [installation guide](INSTALL.md) explains how to install and verify it. Signing, notarization, checksums, and update support will be stated for the actual package.
+## Start with the way you work.
 
-## Before you begin
+<details>
+<summary><strong>Model services and AI features</strong></summary>
 
-- **Bring your model service.** AI features use the model service you configure in Settings. The provider's pricing and data policies apply. Official paid model service is not currently available.
-- **Keep your research under your care.** Papers, notes, and research memory are managed in a local library. Online and AI features send the query and relevant content to the services they use. Keep backups of important work.
-- **Start with your existing library.** Zotero import is a one-time, read-only copy; it does not enable ongoing synchronization or modify your Zotero library.
-- **Choose your language.** The App supports English, Simplified Chinese, Traditional Chinese, Japanese, and Korean.
+Your library and reading work without a model. Insight, Mentor, and other AI features use the model service you configure in Settings; its provider sets the pricing and data rules. Official paid model service is not currently available. AI can be wrong: check important conclusions and citations against original sources.
 
-## Feedback and support
+</details>
 
-Found a problem or have an idea? [Open an issue](https://github.com/YociLam/aPaper/issues) with your aPaper version, macOS version, and steps to reproduce it. For account questions or private support, email [contact@apaper.ai](mailto:contact@apaper.ai). Report security issues using [SECURITY.md](SECURITY.md).
+<details>
+<summary><strong>Your local library and data</strong></summary>
 
-Please remove API keys, account details, and private research material from screenshots and logs before sharing them.
+Papers, notes, and research memory are managed in a local library on your computer. Online and AI features send the query and relevant content to the services they use. Keep backups of important work.
 
-## About this repository
+</details>
 
-This is aPaper's public home for product information, downloads, release notes, and feedback. The application source is private. Update archives and public research metadata are maintained in [aPaper-Cloud](https://github.com/YociLam/aPaper-Cloud).
+<details>
+<summary><strong>Zotero import and languages</strong></summary>
 
-GitHub's automatic **Source code** ZIP/tar downloads contain this repository's public files; install the DMG release asset to use the App. Third-party notices and required runtime material accompany the distributed application. This repository does not grant a license to the private application source.
+Zotero import makes a one-time, read-only copy. It does not modify the original library or enable ongoing synchronization. The App supports English, Simplified Chinese, Traditional Chinese, Japanese, and Korean.
+
+</details>
+
+## Help shape a better research workspace.
+
+Found a problem or have an idea? [Open an issue](https://github.com/YociLam/aPaper/issues) with your aPaper version, macOS version, and reproduction steps. For account questions or private support, email [contact@apaper.ai](mailto:contact@apaper.ai). Security reports: [SECURITY.md](SECURITY.md).
+
+<details>
+<summary><strong>About this repository and its artwork</strong></summary>
+
+This is aPaper's public home for product information, downloads, release notes, and feedback. The App source is private. [aPaper-Cloud](https://github.com/YociLam/aPaper-Cloud) maintains update archives and public research metadata.
+
+The hero artwork comes directly from the aPaper website. Icons use the website's Phosphor glyphs; see [assets/icons/LICENSE](assets/icons/LICENSE). Third-party notices and required runtime material accompany the distributed App; this repository grants no license to private application source. Remove keys, account details, and private research material before sharing screenshots or logs.
+
+</details>
+
+---
+
+<div align="center">
+  <p><strong>Begin with the paper on your desk.</strong></p>
+  <p><a href="https://apaper.ai">Discover · Understand · Connect · Create ↗</a></p>
+</div>

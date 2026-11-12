@@ -1,39 +1,43 @@
-<div align="center">
+<p align="center">
   <img src="./assets/aPaper.png" alt="aPaper" width="980">
-  <p><strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a></p>
-</div>
+</p>
+<p align="center">
+  <a href="https://apaper.ai">Website</a> · <a href="https://github.com/YociLam/aPaper/releases">Releases</a> · <a href="README.zh-CN.md">简体中文</a>
+</p>
 
 # aPaper
 
-**An AI-native research workspace for Mac.**
+aPaper is an AI-native research workspace for Mac.
 
-aPaper is a native Mac application for finding, reading, and working with research papers. It combines a literature library, evidence-based AI assistance, and a manuscript workspace to support your research from discovery to writing.
+Discover papers, read with evidence-based assistance, connect what you learn, and develop manuscripts in one application. Your library, reading, and writing stay connected as a study takes shape.
 
-[Website](https://apaper.ai) · [Releases](https://github.com/YociLam/aPaper/releases) · [Installation](INSTALL.md) · [Feedback](https://github.com/YociLam/aPaper/issues)
+Bring your existing papers through PDF, folder, or one-time Zotero imports. Work with the model service you choose, and keep your papers and notes in a local library.
 
-## Key features
+## Getting started
 
-- **Discover literature** — Follow academic sources and find new papers in your field.
-- **Organize your library** — Manage papers, metadata, and projects. Import PDFs, folders, or a one-time copy of your Zotero library.
-- **Understand papers** — Explore research questions, methods, contributions, and limitations with Insight.
-- **Read with Mentor** — Ask questions about a paper and trace answers back to the original evidence.
-- **Build research knowledge** — Connect concepts, findings, and questions to their sources, and return to them in later work.
-- **Write and revise** — Work on manuscript projects with a LaTeX editor, PDF preview, and research assistant.
+aPaper runs on **Apple silicon Macs with macOS 14.6 or later**. Published installers and release notes are listed in [Releases](https://github.com/YociLam/aPaper/releases); see the [installation guide](INSTALL.md) for setup and download verification.
 
-Papers and notes are managed in a local library. AI features use the model service you configure and send relevant content to that service when used.
+Begin with a paper or import your library. Configure a model service in Settings to use AI features. Relevant content is sent to that service when used; its pricing and data policies apply.
 
-## Download
+Visit [apaper.ai](https://apaper.ai) to explore the application.
 
-**macOS 14.6 or later · Apple silicon**
+## Workspace
 
-Visit [GitHub Releases](https://github.com/YociLam/aPaper/releases) for published versions and release notes. Installation and download verification are covered in the [installation guide](INSTALL.md).
+| Module | Purpose |
+| --- | --- |
+| **Daily Research** | Follow academic sources and discover new papers in your field. |
+| **Library** | Organize papers, metadata, and projects. |
+| **Insight** | Understand a paper's question, method, contribution, and limitations. |
+| **Mentor** | Discuss a paper and follow answers back to the original evidence. |
+| **Knowledge** | Connect concepts, findings, and research questions with their sources. |
+| **Research Workbench** | Write and revise manuscripts with a LaTeX editor, PDF preview, and research assistant. |
 
-## Feedback and support
+## Feedback
 
-For bug reports and feature requests, [open an issue](https://github.com/YociLam/aPaper/issues). Include your aPaper version, macOS version, and steps to reproduce the problem.
+[Open an issue](https://github.com/YociLam/aPaper/issues) for bug reports and feature requests. For bugs, include the application version, macOS version, and steps to reproduce the problem.
 
-For private support, contact [contact@apaper.ai](mailto:contact@apaper.ai). Please report security issues using [SECURITY.md](SECURITY.md), and remove credentials or private research data from shared logs.
+For private support, email [contact@apaper.ai](mailto:contact@apaper.ai). Report security issues privately using [SECURITY.md](SECURITY.md). Remove credentials and private research data before sharing logs.
 
----
+## About this repository
 
-This repository contains aPaper's product information and releases. The application source is private. Update archives and public research metadata are maintained in [aPaper-Cloud](https://github.com/YociLam/aPaper-Cloud).
+This repository hosts aPaper's product information and releases. The application source is private. [aPaper-Cloud](https://github.com/YociLam/aPaper-Cloud) maintains update archives and public research metadata.

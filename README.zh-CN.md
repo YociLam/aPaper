@@ -1,13 +1,21 @@
+<h1 align="center">aPaper</h1>
+
+<h3 align="center">为 Mac 打造的 AI 原生研究工作空间</h3>
+
+<p align="center">发现论文，围绕原文深入阅读，将理解连接成知识，再写成自己的研究。</p>
+
 <p align="center">
-  <img src="./assets/aPaper.png" alt="aPaper" width="980">
-</p>
-<p align="center">
-  <a href="https://apaper.ai/zh-hans">官网</a> · <a href="https://github.com/YociLam/aPaper/releases">版本发布</a> · <a href="README.md">English</a>
+  <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-555555" alt="macOS 14.6 或更高版本">
+  <img src="https://img.shields.io/badge/chip-Apple%20silicon-555555" alt="Apple silicon">
 </p>
 
-# aPaper
+<p align="center"><strong>官方网站：<a href="https://apaper.ai/zh-hans">apaper.ai</a></strong></p>
 
-aPaper 是为 Mac 打造的 AI 原生研究工作空间。
+<p align="center"><a href="README.md">English</a> · 简体中文</p>
+
+<p align="center">
+  <a href="https://github.com/YociLam/aPaper/releases">下载</a> · <a href="#开始使用">开始使用</a> · <a href="#工作空间">工作空间</a> · <a href="INSTALL.md">安装说明</a> · <a href="#反馈">反馈</a>
+</p>
 
 发现论文，围绕原文深入阅读，将理解连接成知识，再写成自己的研究。从文献到稿件，资料库、阅读与写作在同一个应用中衔接。
 
@@ -44,4 +52,8 @@ aPaper 支持 **Apple silicon Mac，要求 macOS 14.6 或更高版本**。已发
 
 ## 服务合作伙伴
 
-<p><a href="https://api.ergouzi.life/"><img src="assets/dogzee-mark-muted.png" alt="Dogzee" width="24" height="24"></a> <strong>Dogzee</strong><br><sub>Dogzee 提供 API 服务，可为 aPaper 的研究工作流提供模型接入。 <a href="https://api.ergouzi.life/">了解更多</a></sub></p>
+<p><a href="https://api.ergouzi.life/"><img src="assets/dogzee.png" alt="Dogzee" width="40"></a> <strong><a href="https://api.ergouzi.life/">Dogzee</a></strong></p>
+
+Dogzee 是 aPaper 的 API 服务合作伙伴，为 AI 辅助研究工作流提供模型服务接入。你可以在 aPaper 中配置兼容的模型服务，用于论文阅读、讨论与文稿写作。可用模型、价格及服务政策以 Dogzee 提供的信息为准。
+
+访问 [api.ergouzi.life](https://api.ergouzi.life/)，了解服务详情并获取 API 密钥。

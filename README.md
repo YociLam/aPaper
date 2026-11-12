@@ -1,13 +1,21 @@
+<h1 align="center">aPaper</h1>
+
+<h3 align="center">An AI-native research workspace for Mac</h3>
+
+<p align="center">Discover papers, read with evidence, connect knowledge, and develop manuscripts in one application.</p>
+
 <p align="center">
-  <img src="./assets/aPaper.png" alt="aPaper" width="980">
-</p>
-<p align="center">
-  <a href="https://apaper.ai">Website</a> · <a href="https://github.com/YociLam/aPaper/releases">Releases</a> · <a href="README.zh-CN.md">简体中文</a>
+  <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-555555" alt="macOS 14.6 or later">
+  <img src="https://img.shields.io/badge/chip-Apple%20silicon-555555" alt="Apple silicon">
 </p>
 
-# aPaper
+<p align="center"><strong>Official website: <a href="https://apaper.ai">apaper.ai</a></strong></p>
 
-aPaper is an AI-native research workspace for Mac.
+<p align="center">English · <a href="README.zh-CN.md">简体中文</a></p>
+
+<p align="center">
+  <a href="https://github.com/YociLam/aPaper/releases">Download</a> · <a href="#getting-started">Getting started</a> · <a href="#workspace">Workspace</a> · <a href="INSTALL.md">Installation guide</a> · <a href="#feedback">Feedback</a>
+</p>
 
 Discover papers, read with evidence-based assistance, connect what you learn, and develop manuscripts in one application. Your library, reading, and writing stay connected as a study takes shape.
 
@@ -44,4 +52,8 @@ This repository hosts aPaper's product information and releases. The application
 
 ## Service partner
 
-<p><a href="https://api.ergouzi.life/"><img src="assets/dogzee-mark-muted.png" alt="Dogzee" width="24" height="24"></a> <strong>Dogzee</strong><br><sub>Dogzee provides API services that can support aPaper research workflows. <a href="https://api.ergouzi.life/">Learn more</a></sub></p>
+<p><a href="https://api.ergouzi.life/"><img src="assets/dogzee.png" alt="Dogzee" width="40"></a> <strong><a href="https://api.ergouzi.life/">Dogzee</a></strong></p>
+
+Dogzee is an API service partner for aPaper, providing access to model services for AI-assisted research workflows. You can configure a compatible model service in aPaper to support paper reading, discussion, and manuscript development. Available models, pricing, and service policies are provided by Dogzee.
+
+Visit [api.ergouzi.life](https://api.ergouzi.life/) to explore the service and obtain an API key.

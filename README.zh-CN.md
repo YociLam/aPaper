@@ -4,15 +4,14 @@
 
 <h1 align="center">aPaper</h1>
 
-<h3 align="center">为 Mac 打造的 AI 原生研究工作空间</h3>
+<h3 align="center">AI 原生研究工作空间</h3>
 
-<p align="center">发现论文，围绕原文深入阅读，将理解连接成知识，再写成自己的研究。</p>
+<p align="center">发现文献，理解脉络，沉淀知识，在已有的理解之上创造新的研究。</p>
 
 <p align="center">
   <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0-2f6f62" alt="版本 0.1.0"></a>
   <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-16a085" alt="macOS 14.6 或更高版本">
-  <img src="https://img.shields.io/badge/Windows-coming%20soon-orange" alt="Windows 即将推出">
-  <img src="https://img.shields.io/badge/Linux-coming%20soon-orange" alt="Linux 即将推出">
+  <img src="https://img.shields.io/badge/Windows-Coming%20Soon-orange" alt="Windows 即将推出">
 </p>
 
 <p align="center"><strong>官方网站：<a href="https://apaper.ai/zh-hans">apaper.ai</a></strong></p>
@@ -20,10 +19,10 @@
 <p align="center"><a href="README.md">English</a> · 简体中文</p>
 
 <p align="center">
-  <a href="https://github.com/YociLam/aPaper/releases">下载</a> · <a href="#开始使用">开始使用</a> · <a href="#工作空间">工作空间</a> · <a href="INSTALL.md">安装说明</a> · <a href="#反馈">反馈</a>
+  <a href="https://github.com/YociLam/aPaper/releases">下载</a> · <a href="#开始使用">开始使用</a> · <a href="#about-apaper">关于 aPaper</a> · <a href="INSTALL.md">安装说明</a> · <a href="#反馈">反馈</a>
 </p>
 
-发现论文，围绕原文深入阅读，将理解连接成知识，再写成自己的研究。从文献到稿件，资料库、阅读与写作在同一个应用中衔接。
+从发现文献、理解脉络到沉淀知识与研究写作，aPaper 将研究过程中的不同环节连接在同一处。
 
 通过 PDF、文件夹或一次性 Zotero 导入接续已有文献库。使用自己选择的模型服务，将论文与笔记保存在本地资料库。
 
@@ -35,7 +34,9 @@ aPaper 支持 **Apple silicon Mac，要求 macOS 14.6 或更高版本**。已发
 
 访问 [apaper.ai](https://apaper.ai/zh-hans)，了解应用的完整体验。
 
-## 工作空间
+## About aPaper
+
+aPaper 是 AI 原生的研究工作空间：发现文献，理解脉络，沉淀知识，在已有的理解之上创造新的研究。
 
 | 模块 | 用途 |
 | --- | --- |

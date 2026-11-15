@@ -4,15 +4,14 @@
 
 <h1 align="center">aPaper</h1>
 
-<h3 align="center">An AI-native research workspace for Mac</h3>
+<h3 align="center">An AI-native research workspace</h3>
 
-<p align="center">Discover papers, read with evidence, connect knowledge, and develop manuscripts in one application.</p>
+<p align="center">Discover papers, understand ideas, connect knowledge, and create new research on what you already understand.</p>
 
 <p align="center">
   <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0-2f6f62" alt="Version 0.1.0"></a>
   <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-16a085" alt="macOS 14.6 or later">
-  <img src="https://img.shields.io/badge/Windows-coming%20soon-orange" alt="Windows coming soon">
-  <img src="https://img.shields.io/badge/Linux-coming%20soon-orange" alt="Linux coming soon">
+  <img src="https://img.shields.io/badge/Windows-Coming%20Soon-orange" alt="Windows Coming Soon">
 </p>
 
 <p align="center"><strong>Official website: <a href="https://apaper.ai">apaper.ai</a></strong></p>
@@ -20,10 +19,10 @@
 <p align="center">English · <a href="README.zh-CN.md">简体中文</a></p>
 
 <p align="center">
-  <a href="https://github.com/YociLam/aPaper/releases">Download</a> · <a href="#getting-started">Getting started</a> · <a href="#workspace">Workspace</a> · <a href="INSTALL.md">Installation guide</a> · <a href="#feedback">Feedback</a>
+  <a href="https://github.com/YociLam/aPaper/releases">Download</a> · <a href="#getting-started">Getting started</a> · <a href="#about-apaper">About aPaper</a> · <a href="INSTALL.md">Installation guide</a> · <a href="#feedback">Feedback</a>
 </p>
 
-Discover papers, read with evidence-based assistance, connect what you learn, and develop manuscripts in one application. Your library, reading, and writing stay connected as a study takes shape.
+aPaper is an AI-native research workspace. Discover papers, understand ideas, connect knowledge, and create new research on what you already understand. Your library, reading, and writing stay connected as a study takes shape.
 
 Bring your existing papers through PDF, folder, or one-time Zotero imports. Work with the model service you choose, and keep your papers and notes in a local library.
 
@@ -35,7 +34,9 @@ Begin with a paper or import your library. Configure a model service in Settings
 
 Visit [apaper.ai](https://apaper.ai) to explore the application.
 
-## Workspace
+## About aPaper
+
+From the first paper you find to the manuscript you develop, aPaper connects the stages of research in one workspace.
 
 | Module | Purpose |
 | --- | --- |

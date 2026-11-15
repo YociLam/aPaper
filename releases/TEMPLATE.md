@@ -10,6 +10,9 @@ Do not include internal build numbers, hashes, feed paths, signing receipts, dev
 
 ---
 
+Copy the following Markdown, replace the placeholders, and remove unused sections:
+
+```markdown
 English · [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/<version>/zh-Hans.md) · [繁體中文](https://github.com/YociLam/aPaper/blob/main/releases/<version>/zh-Hant.md) · [日本語](https://github.com/YociLam/aPaper/blob/main/releases/<version>/ja.md) · [한국어](https://github.com/YociLam/aPaper/blob/main/releases/<version>/ko.md)
 
 <One short paragraph explaining the focus of this update.>
@@ -29,3 +32,4 @@ English · [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/<
 ## Getting Started
 
 [Download aPaper](<verified-installer-url>) · [Installation guide](https://github.com/YociLam/aPaper/blob/main/INSTALL.md) · [Feedback](https://github.com/YociLam/aPaper/issues)
+```

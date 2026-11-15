@@ -1,9 +1,13 @@
-# Releases / 版本发布
+# Releases
 
-[View releases on GitHub / 查看 GitHub Releases](https://github.com/YociLam/aPaper/releases)
+Download the latest installer and read what is new in [GitHub Releases](https://github.com/YociLam/aPaper/releases).
 
-Each release includes the aPaper installer and user-facing release notes. Download [aPaper 0.1.0](https://github.com/YociLam/aPaper/releases/tag/v0.1.0-b1001).
+## aPaper 0.1.0
 
-每个版本都会提供 aPaper 安装包与面向用户的更新说明。下载 [aPaper 0.1.0](https://github.com/YociLam/aPaper/releases/tag/v0.1.0-b1001)。
+An AI-native research workspace, from literature discovery to manuscript writing.
 
-[Installation / 安装说明](INSTALL.md)
+[Download and release details](https://github.com/YociLam/aPaper/releases/tag/v0.1.0-b1001)
+
+[English](releases/0.1.0/en.md) · [简体中文](releases/0.1.0/zh-Hans.md) · [繁體中文](releases/0.1.0/zh-Hant.md) · [日本語](releases/0.1.0/ja.md) · [한국어](releases/0.1.0/ko.md)
+
+[Installation guide](INSTALL.md)

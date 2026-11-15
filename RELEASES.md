@@ -2,8 +2,8 @@
 
 [View releases on GitHub / 查看 GitHub Releases](https://github.com/YociLam/aPaper/releases)
 
-Release notes, installers, and checksums are published together for each version. No public installer is available yet.
+Each release includes the aPaper installer and user-facing release notes. Download [aPaper 0.1.0](https://github.com/YociLam/aPaper/releases/tag/v0.1.0-b1001).
 
-每个版本的更新说明、安装包与校验值统一在 Releases 提供。目前暂无公开安装包。
+每个版本都会提供 aPaper 安装包与面向用户的更新说明。下载 [aPaper 0.1.0](https://github.com/YociLam/aPaper/releases/tag/v0.1.0-b1001)。
 
 [Installation / 安装说明](INSTALL.md)

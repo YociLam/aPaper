@@ -9,8 +9,10 @@
 <p align="center">Discover papers, read with evidence, connect knowledge, and develop manuscripts in one application.</p>
 
 <p align="center">
-  <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0%20%28preparing%29-2563eb" alt="0.1.0 — in preparation"></a>
+  <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0-2f6f62" alt="Version 0.1.0"></a>
   <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-16a085" alt="macOS 14.6 or later">
+  <img src="https://img.shields.io/badge/Windows-coming%20soon-orange" alt="Windows coming soon">
+  <img src="https://img.shields.io/badge/Linux-coming%20soon-orange" alt="Linux coming soon">
 </p>
 
 <p align="center"><strong>Official website: <a href="https://apaper.ai">apaper.ai</a></strong></p>

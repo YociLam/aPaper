@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0-2f6f62" alt="版本 0.1.0"></a>
-  <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-16a085" alt="macOS 14.6 或更高版本">
+  <img src="https://img.shields.io/badge/macOS-14.6%2B-16a085" alt="macOS 14.6 或更高版本">
   <img src="https://img.shields.io/badge/Windows-Coming%20Soon-orange" alt="Windows 即将推出">
 </p>
 
@@ -59,7 +59,12 @@ aPaper 是 AI 原生的研究工作空间：发现文献，理解脉络，沉淀
 
 ## 服务合作伙伴
 
-<p align="center"><a href="https://api.ergouzi.life/"><img src="assets/dogzee-partner.zh-CN.png" alt="Dogzee，aPaper 的优质 API 服务合作伙伴" width="720"></a></p>
+<a href="https://api.ergouzi.life/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dogzee-partner.zh-CN.dark.png">
+    <img src="assets/dogzee-partner.zh-CN.png" alt="Dogzee，aPaper 的优质 API 服务合作伙伴" width="100%">
+  </picture>
+</a>
 
 Dogzee API 服务平台是 aPaper 的 API 服务合作伙伴，为 AI 辅助研究工作流提供模型服务接入。你可以在 aPaper 中配置兼容的模型服务，用于论文阅读、讨论与文稿写作。可用模型、价格及服务政策以 Dogzee 提供的信息为准。
 

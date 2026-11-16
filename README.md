@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0-2f6f62" alt="Version 0.1.0"></a>
-  <img src="https://img.shields.io/badge/platform-macOS%2014.6%2B-16a085" alt="macOS 14.6 or later">
+  <img src="https://img.shields.io/badge/macOS-14.6%2B-16a085" alt="macOS 14.6 or later">
   <img src="https://img.shields.io/badge/Windows-Coming%20Soon-orange" alt="Windows Coming Soon">
 </p>
 
@@ -59,7 +59,12 @@ This repository hosts aPaper's product information and releases. The application
 
 ## Service partner
 
-<p align="center"><a href="https://api.ergouzi.life/"><img src="assets/dogzee-partner.en.png" alt="Dogzee, an API service partner for aPaper" width="720"></a></p>
+<a href="https://api.ergouzi.life/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dogzee-partner.en.dark.png">
+    <img src="assets/dogzee-partner.en.png" alt="Dogzee, an API service partner for aPaper" width="100%">
+  </picture>
+</a>
 
 Dogzee API Service Platform is an API service partner for aPaper, providing access to model services for AI-assisted research workflows. You can configure a compatible model service in aPaper to support paper reading, discussion, and manuscript development. Available models, pricing, and service policies are provided by Dogzee.
 

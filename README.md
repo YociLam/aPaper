@@ -61,8 +61,8 @@ This repository hosts aPaper's product information and releases. The application
 
 <a href="https://api.ergouzi.life/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dogzee-partner.en.dark.png">
-    <img src="assets/dogzee-partner.en.png" alt="Dogzee, an API service partner for aPaper" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dogzee-banner.en.dark.png">
+    <img src="assets/dogzee-banner.en.png" alt="Dogzee, an API service partner for aPaper" width="100%">
   </picture>
 </a>
 

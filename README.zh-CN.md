@@ -61,8 +61,8 @@ aPaper 是 AI 原生的研究工作空间：发现文献，理解脉络，沉淀
 
 <a href="https://api.ergouzi.life/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dogzee-banner.zh-CN.dark.png">
-    <img src="assets/dogzee-banner.zh-CN.png" alt="Dogzee，aPaper 的优质 API 服务合作伙伴" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dogzee-banner.zh-CN.dark.png?v=2">
+    <img src="assets/dogzee-banner.zh-CN.png?v=2" alt="Dogzee，aPaper 的优质 API 服务合作伙伴" width="100%">
   </picture>
 </a>
 

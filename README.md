@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/aPaper.png" alt="aPaper" width="980">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aPaper-hero.dark.png">
+    <img src="./assets/aPaper-hero.light.png" alt="aPaper" width="980">
+  </picture>
 </p>
 
 <h1 align="center">aPaper</h1>

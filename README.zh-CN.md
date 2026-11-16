@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Windows-Coming%20Soon-orange" alt="Windows 即将推出">
 </p>
 
-<p align="center"><strong>官方网站：<a href="https://apaper.ai/zh-hans">apaper.ai</a></strong></p>
+<p align="center"><strong>官方网站：<a href="https://apaper.ai">apaper.ai</a></strong></p>
 
 <p align="center"><a href="README.md">English</a> · 简体中文</p>
 

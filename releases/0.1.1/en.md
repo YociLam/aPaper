@@ -24,3 +24,7 @@ aPaper 0.1.1 improves Knowledge task recovery, conversation responsiveness, and 
 
 - **Zotero metadata and folders.** Resolve imported identifiers or titles, retain imported values when no verified result is available, preserve user edits, and organize destination menus by folder hierarchy.
 - **Floating panel scrolling.** Keep wheel input inside the hovered island, including its header and padding, without scrolling the page behind it.
+
+[Download aPaper](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [Installation guide](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
+
+[Full changelog](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)

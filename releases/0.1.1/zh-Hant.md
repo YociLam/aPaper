@@ -23,3 +23,5 @@
 - 使用 Zotero 既有識別碼或標題整理中繼資料，並保留使用者編輯。
 - 移動到與複製到選單依資料夾層級展開。
 - 游標停留於靈動島時，捲動維持在島內，涵蓋標題與邊緣區域。
+
+[完整更新日誌](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)

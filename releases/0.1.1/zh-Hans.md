@@ -23,3 +23,5 @@
 - 使用 Zotero 已有标识或标题整理元数据，并保留用户编辑。
 - 移动到和复制到菜单按文件夹层级展开。
 - 鼠标悬停灵动岛时，滚动保持在岛内，覆盖标题和边缘区域。
+
+[完整更新日志](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)

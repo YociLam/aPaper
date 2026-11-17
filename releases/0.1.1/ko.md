@@ -26,7 +26,9 @@
 
 ## 다운로드 및 설치
 
-[macOS 버전 다운로드](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [설치 안내](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
+macOS 14.6 이상을 실행하는 Apple Silicon Mac을 지원합니다. [aPaper 0.1.1을 다운로드](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg)하고 DMG를 연 다음 aPaper를 응용 프로그램 폴더로 드래그하세요.
+
+수동으로 업데이트할 때는 작업을 저장하고 aPaper를 종료한 후 앱을 교체하세요. 자세한 절차와 macOS 알림에 대한 안내는 [설치 가이드](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)를 참고하세요.
 
 ## 전체 변경 내역
 

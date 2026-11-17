@@ -27,7 +27,9 @@ aPaper 0.1.1 improves Knowledge task recovery, conversation responsiveness, and 
 
 ## Download and installation
 
-[Download aPaper](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [Installation guide](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
+For Apple silicon Macs running macOS 14.6 or later. [Download aPaper 0.1.1](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg), open the DMG, and drag aPaper to Applications.
+
+For a manual upgrade, save your work and quit aPaper before replacing the app. See the [installation guide](https://github.com/YociLam/aPaper/blob/main/INSTALL.md) for detailed steps and help with macOS prompts.
 
 ## Full changelog
 

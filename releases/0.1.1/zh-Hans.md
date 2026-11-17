@@ -26,7 +26,9 @@
 
 ## 下载与安装
 
-[下载 macOS 版](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [安装指南](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
+适用于运行 macOS 14.6 或更高版本的 Apple 芯片 Mac。[下载 aPaper 0.1.1](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg)，打开 DMG，将 aPaper 拖入“应用程序”文件夹。
+
+手动升级前，请先保存工作并退出 aPaper，再替换应用。详细步骤及 macOS 提示的处理方法请参阅[安装指南](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)。
 
 ## 完整更新日志
 

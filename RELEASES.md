@@ -1,5 +1,7 @@
 # Releases
 
+Current release: [0.1.1 (build 1007)](https://github.com/YociLam/aPaper/releases/tag/v0.1.1-b1007) · macOS 14.6+ / arm64 · Apple Development / unnotarized / sparkle-eddsa.
+
 Download the latest installer and read what is new in [GitHub Releases](https://github.com/YociLam/aPaper/releases).
 
 ## aPaper 0.1.0

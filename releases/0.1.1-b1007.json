@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.1",
+  "build": 1007,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "Apple Development",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-11-17T10:35:06Z",
+  "notes": {
+    "en": "aPaper 0.1.1\n\nNew features\n• Shared model-specific reasoning presets in Model Settings and conversation controls.\n• Consistent research figures and interactive views, with verified source excerpts and saved view state.\n• Import papers directly from Library context menus.\n\nImprovements\n• More responsive session lists, streamed answers and Knowledge graph updates.\n• View Knowledge results for the selected papers in Cards or Graph mode.\n• Continue eligible saved Knowledge tasks after restarting, and retry recoverable failures when dependencies are available, while preserving processing settings and existing Knowledge.\n\nBug fixes\n• Protect a workspace from concurrent app instances and preserve SQLite transaction locks.\n• Handle temporary Knowledge startup failures with bounded recovery and clearer messages.\n• Restore editing and retry for failed or stopped Mentor answers.\n• Correct collapsed-sidebar hover, organization dialogs, onboarding navigation and permission controls.\n• Preserve usable Dogzee model groups after an optional key-name update fails.\n• Improve Research Assistant attachment access, project resources and command runtime reliability.\n• Resolve Zotero metadata from available identifiers or titles while preserving user edits.\n• Use nested Move To and Copy To folder menus.\n• Keep scrolling within the hovered floating island, including its header and edges.",
+    "zh-Hans": "aPaper 0.1.1\n\n新功能\n• 模型设置和对话输入框统一采用各模型的推理强度预设。\n• 研究图表与交互视图采用统一样式，支持已核验的来源摘录和视图状态保存。\n• 可直接从资料库右键菜单导入文献。\n\n改进\n• 提升会话列表、流式回答和知识图谱更新的响应表现。\n• 查看结果可在卡片或图谱模式中定位本次操作的文献。\n• 重启后接续符合条件的已保存沉淀任务；依赖恢复可用时自动重试可恢复的错误，保留处理设置和已有知识。\n\n问题修复\n• 防止多个 App 实例同时打开同一工作区，并保留 SQLite 事务锁。\n• 为知识库启动瞬态失败提供有限恢复和清晰提示。\n• 恢复失败或停止回答后的问题编辑与重试。\n• 修正侧边栏悬停展开、整理弹窗、引导页导航和授权控件。\n• 保留可用的 Dogzee 模型分组，避免可选的密钥名称更新失败导致分组消失。\n• 改善研究助理的附件访问、项目资源操作和命令运行可靠性。\n• 使用 Zotero 已有标识或标题整理元数据，并保留用户编辑。\n• 移动到和复制到菜单按文件夹层级展开。\n• 鼠标悬停灵动岛时，滚动保持在岛内，覆盖标题和边缘区域。",
+    "zh-Hant": "aPaper 0.1.1\n\n新功能\n• 模型設定與對話輸入框統一採用各模型的推理強度預設。\n• 研究圖表與互動檢視採用一致樣式，支援已核驗的來源摘錄與檢視狀態保存。\n• 可直接從資料庫右鍵選單匯入論文。\n\n改進\n• 改善對話清單、串流回答與知識圖譜更新的回應表現。\n• 查看結果可在卡片或圖譜模式中定位本次操作的論文。\n• 重新啟動後接續符合條件的已儲存沉澱工作；依賴項目恢復可用時，自動重試可恢復的錯誤，保留處理設定與既有知識。\n\n問題修復\n• 防止多個 App 執行個體同時開啟同一工作區，並保留 SQLite 交易鎖定。\n• 為知識庫啟動時的短暫失敗提供有限恢復與清楚提示。\n• 恢復回答失敗或停止後的問題編輯與重試。\n• 修正側邊欄懸停展開、整理對話框、引導頁導覽與授權控制項。\n• 保留可用的 Dogzee 模型群組，避免選用的金鑰名稱更新失敗造成群組消失。\n• 改善研究助理的附件存取、專案資源操作與命令執行可靠性。\n• 使用 Zotero 既有識別碼或標題整理中繼資料，並保留使用者編輯。\n• 移動到與複製到選單依資料夾層級展開。\n• 游標停留於靈動島時，捲動維持在島內，涵蓋標題與邊緣區域。",
+    "ja": "aPaper 0.1.1\n\n新機能\n• モデル設定と会話の入力欄で、モデルに応じた推論強度のプリセットを共通化。\n• 研究図表とインタラクティブ表示のデザインを統一。検証済みの出典抜粋と表示状態の保存に対応。\n• Library のコンテキストメニューから論文を直接インポート可能に。\n\n改善\n• 会話一覧、ストリーミング回答、Knowledge グラフ更新の応答性を改善。\n• 結果表示で、操作対象の論文をカードまたはグラフに表示。\n• 再起動後に継続可能な保存済み Knowledge タスクを再開。依存機能が利用可能になると回復可能な失敗を再試行し、処理設定と既存の知識を保持。\n\n修正\n• 同じワークスペースを複数の App が同時に開くことを防ぎ、SQLite のトランザクションロックを保持。\n• Knowledge 起動時の一時的な失敗に、回数を制限した復旧処理と明確な案内を追加。\n• 失敗または停止した Mentor 回答で、質問の編集と再試行を復元。\n• サイドバーのホバー展開、整理ダイアログ、初期設定の移動と許可ボタンを修正。\n• 任意のキー名更新に失敗しても、利用可能な Dogzee モデルグループを保持。\n• Research Assistant の添付ファイルへのアクセス、プロジェクト操作とコマンド実行の信頼性を改善。\n• Zotero の識別子やタイトルからメタデータを照合し、ユーザーの編集を保持。\n• 移動先とコピー先を階層化したフォルダメニューで表示。\n• フローティングパネルの見出しや端でも、ホバー中のパネル内でスクロール。",
+    "ko": "aPaper 0.1.1\n\n새 기능\n• 모델 설정과 대화 입력창에서 모델별 추론 강도 프리셋을 일관되게 제공합니다.\n• 연구 도표와 대화형 보기에 공통 디자인을 적용하고, 검증된 출처 발췌와 보기 상태 저장을 지원합니다.\n• Library 우클릭 메뉴에서 논문을 바로 가져올 수 있습니다.\n\n개선\n• 대화 목록, 스트리밍 답변과 Knowledge 그래프 업데이트의 응답성을 개선했습니다.\n• 결과 보기에서 이번 작업의 논문을 카드 또는 그래프 모드로 표시합니다.\n• 재시작 후 계속할 수 있는 저장된 Knowledge 작업을 재개합니다. 필요한 기능이 복구되면 복구 가능한 오류를 자동으로 재시도하며, 처리 설정과 기존 지식을 유지합니다.\n\n수정\n• 여러 App이 같은 작업공간을 동시에 열지 않도록 하고 SQLite 트랜잭션 잠금을 유지합니다.\n• Knowledge 시작 중 일시적인 오류에 제한된 복구 절차와 명확한 안내를 제공합니다.\n• 실패하거나 중단된 Mentor 답변에서 질문 편집과 재시도를 복원했습니다.\n• 사이드바 호버 펼치기, 정리 대화상자, 초기 설정 탐색과 권한 버튼을 수정했습니다.\n• 선택적 키 이름 업데이트가 실패해도 사용 가능한 Dogzee 모델 그룹을 유지합니다.\n• Research Assistant의 첨부파일 접근, 프로젝트 리소스 작업과 명령 실행의 안정성을 개선했습니다.\n• Zotero 식별자나 제목으로 메타데이터를 확인하고 사용자 편집을 유지합니다.\n• 이동 및 복사 대상 폴더를 계층형 메뉴로 표시합니다.\n• 떠 있는 패널의 제목과 가장자리에서도 스크롤이 해당 패널 안에 머물도록 했습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.1-b1007",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg",
+    "bytes": 464156877,
+    "sha256": "e03884f79f0794c1bdad0fbca467da2e04f9bbba0f9311c400ed36335a106671"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.1-b1007",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.1-b1007/aPaper-0.1.1-b1007-macos-arm64.zip",
+    "bytes": 448910048,
+    "sha256": "b20ea42b750879a98afb565dae60769c1239599f70cf4d283a02b38b1a9f5e55"
+  }
+}

@@ -2,12 +2,6 @@ English · [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/0
 
 aPaper 0.1.1 improves Knowledge task recovery, conversation responsiveness, and everyday navigation.
 
-> **aPaper 0.1.1 for macOS**
->
-> Apple silicon · macOS 14.6+
->
-> [Download aPaper](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [Installation guide](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
-
 ## New Features
 
 - **Model-aware reasoning controls.** Model Settings and conversation controls share reasoning presets tailored to the configured model.
@@ -31,7 +25,9 @@ aPaper 0.1.1 improves Knowledge task recovery, conversation responsiveness, and 
 - **Zotero metadata and folders.** Resolve imported identifiers or titles, retain imported values when no verified result is available, preserve user edits, and organize destination menus by folder hierarchy.
 - **Floating panel scrolling.** Keep wheel input inside the hovered island, including its header and padding, without scrolling the page behind it.
 
----
+## Download and installation
+
+[Download aPaper](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [Installation guide](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
 
 ## Full changelog
 

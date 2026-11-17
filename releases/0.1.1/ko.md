@@ -3,6 +3,12 @@
 [English](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/en.md) · [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/zh-Hans.md) · [繁體中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/zh-Hant.md) · [日本語](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/ja.md) · [한국어](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/ko.md)
 
 
+> **aPaper 0.1.1 · macOS**
+>
+> Apple silicon · macOS 14.6+
+>
+> [macOS 버전 다운로드](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [설치 안내](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
+
 ## 새 기능
 - 모델 설정과 대화 입력창에서 모델별 추론 강도 프리셋을 일관되게 제공합니다.
 - 연구 도표와 대화형 보기에 공통 디자인을 적용하고, 검증된 출처 발췌와 보기 상태 저장을 지원합니다.
@@ -24,4 +30,8 @@
 - 이동 및 복사 대상 폴더를 계층형 메뉴로 표시합니다.
 - 떠 있는 패널의 제목과 가장자리에서도 스크롤이 해당 패널 안에 머물도록 했습니다.
 
-[전체 변경 내역](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)
+---
+
+## 전체 변경 내역
+
+[모든 버전의 변경 내역 보기](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md).

@@ -4,6 +4,14 @@ Current release: [0.1.1 (build 1007)](https://github.com/YociLam/aPaper/releases
 
 Download the latest installer and read what is new in [GitHub Releases](https://github.com/YociLam/aPaper/releases).
 
+## aPaper 0.1.1
+
+Published on November 17, 2026.
+
+[Download aPaper](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [Installation guide](INSTALL.md) · [Full changelog](CHANGELOG.md)
+
+[English](releases/0.1.1/en.md) · [简体中文](releases/0.1.1/zh-Hans.md) · [繁體中文](releases/0.1.1/zh-Hant.md) · [日本語](releases/0.1.1/ja.md) · [한국어](releases/0.1.1/ko.md)
+
 ## aPaper 0.1.0
 
 An AI-native research workspace, from literature discovery to manuscript writing.

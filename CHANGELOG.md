@@ -4,6 +4,8 @@ User-visible changes to the aPaper app. Unreleased entries are dated by integrat
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-11-17
+
 ### 2026-11-17
 
 #### Fixed

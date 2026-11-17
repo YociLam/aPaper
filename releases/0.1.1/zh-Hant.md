@@ -3,6 +3,12 @@
 [English](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/en.md) · [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/zh-Hans.md) · [繁體中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/zh-Hant.md) · [日本語](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/ja.md) · [한국어](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/ko.md)
 
 
+> **aPaper 0.1.1 · macOS**
+>
+> Apple silicon · macOS 14.6+
+>
+> [下載 macOS 版](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [安裝指南](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
+
 ## 新功能
 - 模型設定與對話輸入框統一採用各模型的推理強度預設。
 - 研究圖表與互動檢視採用一致樣式，支援已核驗的來源摘錄與檢視狀態保存。
@@ -24,4 +30,8 @@
 - 移動到與複製到選單依資料夾層級展開。
 - 游標停留於靈動島時，捲動維持在島內，涵蓋標題與邊緣區域。
 
-[完整更新日誌](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)
+---
+
+## 完整更新日誌
+
+[查看所有版本的更新紀錄](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)。

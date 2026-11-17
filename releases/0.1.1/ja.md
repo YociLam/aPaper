@@ -3,6 +3,12 @@
 [English](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/en.md) · [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/zh-Hans.md) · [繁體中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/zh-Hant.md) · [日本語](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/ja.md) · [한국어](https://github.com/YociLam/aPaper/blob/main/releases/0.1.1/ko.md)
 
 
+> **aPaper 0.1.1 · macOS**
+>
+> Apple silicon · macOS 14.6+
+>
+> [macOS 版をダウンロード](https://github.com/YociLam/aPaper/releases/download/v0.1.1-b1007/aPaper.dmg) · [インストールガイド](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)
+
 ## 新機能
 - モデル設定と会話の入力欄で、モデルに応じた推論強度のプリセットを共通化。
 - 研究図表とインタラクティブ表示のデザインを統一。検証済みの出典抜粋と表示状態の保存に対応。
@@ -24,4 +30,8 @@
 - 移動先とコピー先を階層化したフォルダメニューで表示。
 - フローティングパネルの見出しや端でも、ホバー中のパネル内でスクロール。
 
-[変更履歴](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)
+---
+
+## 変更履歴
+
+[すべてのバージョンの変更履歴を見る](https://github.com/YociLam/aPaper/blob/main/CHANGELOG.md)。

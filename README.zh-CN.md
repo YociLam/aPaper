@@ -15,7 +15,7 @@
 <p align="center">发现文献，理解脉络，沉淀知识，在已有的理解之上创造新的研究。</p>
 
 <p align="center">
-  <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.0-2f6f62" alt="版本 0.1.0"></a>
+  <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.1-2f6f62" alt="版本 0.1.1"></a>
   <img src="https://img.shields.io/badge/macOS-14.6%2B-16a085" alt="macOS 14.6 或更高版本">
   <img src="https://img.shields.io/badge/Windows-Coming%20Soon-orange" alt="Windows 即将推出">
 </p>

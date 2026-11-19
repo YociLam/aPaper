@@ -2,7 +2,55 @@
 
 User-visible changes to the aPaper app. Unreleased entries are dated by integration; release headings use verified publication dates.
 
-## [Unreleased]
+## [0.1.2] - 2026-11-19
+
+### 2026-11-19
+
+#### Fixed
+
+- Keep the reader’s parallel translation controls, settings, and model binding visible for every target language. When the original PDF already uses the target language, skip translation, keep the button in its default style, and show a floating-island notice. Reserve the red icon and badge for translation errors.
+- Ask for confirmation before deleting a reader annotation.
+- Hide passwords again when switching between sign-in, registration, and password reset, and keep each password field's visibility independent.
+- Restore cached Ergouzi models at launch while refreshing in the background. Report local configuration failures separately from service response errors. After unlinking, remove Ergouzi providers and select a configured alternative when available.
+- Show sending and error feedback when requesting Ergouzi registration and password reset codes. After a successful request, show a 30-second resend countdown in the button. Request a human check only when the service requires it.
+- Save and check the first custom model provider even when an older binding uses a reasoning level its model no longer supports. Show specific feedback for invalid keys, model lists, and local configuration failures.
+- Read PDFs whose text lives in form objects or that declare their cross-reference table unusually, such as some CNKI downloads, in Paper Mentor, the Knowledge Steward and the Research Assistant, and read the pages of PDFs that carry embedded files without sending the embedded files to the model.
+- Remove a failed, rejected or pending attachment at any time, and stop a message from being sent while a rejected attachment is still in its draft, instead of answering as if the file had been read.
+- Open a supplementary paper in the reader's second pane with an ordinary click, and open PDFs, Word documents, spreadsheets and text files from Paper Mentor or the Research Assistant beside the current paper or manuscript without changing the editor, build entry or compiled PDF.
+- Show attached images, and sources opened from Knowledge details, in a viewer over the current window with the workspace blurred behind it, one close button and a compact tool strip. Images can be zoomed, panned, marked up, cropped and saved as a separate copy without changing the original; documents can be zoomed in and out.
+- Keep the attachment and source viewer in front of everything in its window: opening a source from Knowledge details puts the details away and brings them back unchanged, with the same selection, scroll position and focus, when the viewer closes; Escape closes only the viewer.
+- Show images and PDF pages directly on the blurred window without a white panel behind them, open PDF previews with the whole page in view, place the viewer's tool strip at the bottom of the window like the reader's, and zoom around the pointer with Command or Control and the scroll wheel.
+- Send the images and PDFs you add to a quoted follow-up with that follow-up in the Research Assistant and the Knowledge Steward, and accept a follow-up with files while the main reply is still running, instead of refusing it or moving the files to the main draft.
+- Remove an attachment with a click anywhere near its cross, instead of opening its preview when the click lands just beside the small cross.
+- Keep each queued message's files with that message, so the next draft starts empty, and stop a follow-up from being sent as text alone while one of its files was rejected.
+- Keep a quoted follow-up and its streaming reply, and the continuation after answering a question from the Research Assistant, below the earlier answer instead of above it.
+- Load a Research Assistant reply's change card when the reply continued after you answered one of its questions, so it matches the full change review.
+- Let Retry run again in the Research Assistant after a retry could not start, instead of silently ignoring later clicks and disabling Save and Build.
+- Keep citation numbers fully visible beside punctuation, at narrow widths and in fallback formula and diagram blocks, and stop malformed blocks from printing raw diagnostics.
+
+#### Changed
+
+- Start new installations with an empty model setup. When updating, remove the old unconfigured placeholder and keep existing providers and model selections. Reset a saved reasoning level to Automatic if its model no longer supports it.
+- Use a capsule control for the Quick Research menu bar shortcut. Press Escape while recording or click the clear button to remove the saved shortcut.
+
+### 2026-11-18
+
+#### Fixed
+
+- Show models as loading while aPaper restores your Ergouzi subscription at launch, instead of briefly saying that no model is configured.
+- Let Paper Mentor read, search and quote PDFs you attach to a conversation as evidence. Their citations open the PDF in the in-app preview at the quoted page with the passage highlighted, and show as unavailable once the attachment is removed.
+- Outline figure, table and formula regions in Workbench review notes instead of shading them as selected text, and say when a citation could only be located to its page.
+- Let a quoted follow-up research and stream its reply while the main Paper Mentor conversation is still answering, and the other way round. Each keeps its own progress, Stop and waiting messages, and stopping or failing one leaves the other running.
+- Send follow-up questions about quoted text reliably and keep the main conversation usable when a follow-up fails, stops or is left waiting; waiting messages stay until you send, retry or remove them.
+- Preview attached images, PDFs, text, Markdown, Word and RTF documents, spreadsheets and slides inside the app from any agent sidebar without leaving the current paper, with zoom and pan for images and an explicit option to open the file in its default app.
+- Let Paper Mentor read and correct a Library paper's bibliographic details through the metadata editor's rules; the reply states what changed, and the Library and Reader update at once.
+- Show the drop state only on the attachments panel while dragging files into an agent sidebar, instead of outlining the whole sidebar.
+- Show citations whose source paper is no longer in the Library as unavailable instead of as grey sources that cannot be opened, and restore citations that were waiting for the Library to load.
+- Require agreeing to aPaper's terms before continuing without signing in, with the same checkbox and guidance as signing in.
+- Accept files dropped anywhere in the Paper Mentor, Knowledge Steward or Research Assistant sidebar, including over rendered answers, adding them to the current draft without sending.
+- Show a message's images above its documents and question as one aligned group in every agent sidebar, keeping image proportions and wrapping to the sidebar width.
+- Stack sentence-length answer choices one per row, using two columns only for short balanced pairs in a wide sidebar, with calmer styling and no stretched last item.
+- Clear the composer immediately on the first send after launch, including after input-method composition, and show each message's own attachments without repeating earlier files on later messages.
 
 ## [0.1.1] - 2026-11-17
 

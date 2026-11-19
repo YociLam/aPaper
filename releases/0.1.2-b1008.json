@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.2",
+  "build": 1008,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "Apple Development",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-11-19T13:49:18Z",
+  "notes": {
+    "en": "aPaper 0.1.2\n\nNew features\n• Open Quick Research from the macOS menu bar and set or clear its keyboard shortcut.\n• Paper Mentor can cite attached PDFs and highlight the quoted passage in the in-app viewer.\n\nImprovements\n• Preview attachments without leaving your workspace. Quoted follow-ups can run alongside the main reply and keep their files when queued.\n• New installations start with no model selected. Updates preserve configured providers and selections, and return unsupported reasoning levels to Automatic.\n\nBug fixes\n• Parallel translation stays visible for all target languages. If the PDF already uses that language, the reader shows a notice without turning the button red. Deleting annotations now requires confirmation.\n• Restore cached Ergouzi models at launch, remove its providers after unlinking, and show a 30-second resend countdown after a successful code request. Password visibility resets when switching forms.\n• Fix first-time custom provider setup, attachment removal, and Research Assistant retries.",
+    "zh-Hans": "aPaper 0.1.2\n\n新功能\n• 从 macOS 菜单栏开启快速研究，可设置或清除快捷键。\n• 论文导师可引用对话中附加的 PDF，并在应用内预览中高亮引用段落。\n\n改进\n• 不离开工作区即可预览附件。引用追问可与主回复并行，排队时保留各自的附件。\n• 新安装默认不选择模型。更新保留已有供应商和模型选择，并将不再支持的推理强度恢复为自动。\n\n问题修复\n• 平行翻译按钮在所有目标语言下均可见。PDF 原文与目标语言一致时，显示提示但按钮不变红。删除批注前需要确认。\n• 启动时恢复缓存的二狗子模型，解绑后移除其供应商。成功发送验证码后，按钮显示 30 秒重发倒计时。切换账号表单时重新隐藏密码。\n• 修复首次添加自定义供应商、移除附件及研究助理重试的问题。",
+    "zh-Hant": "aPaper 0.1.2\n\n新功能\n• 從 macOS 選單列開啟快速研究，可設定或清除快捷鍵。\n• 論文導師可引用對話中附加的 PDF，並在應用程式內的預覽中標示引用段落。\n\n改進\n• 不離開工作區即可預覽附件。引用追問可與主要回覆並行，排隊時保留各自的附件。\n• 新安裝預設不選取模型。更新會保留既有供應商及模型選擇，並將不再支援的推理強度恢復為自動。\n\n問題修復\n• 平行翻譯按鈕在所有目標語言下均可見。PDF 原文與目標語言一致時，顯示提示但按鈕不變紅。刪除註解前需要確認。\n• 啟動時恢復快取的二狗子模型，解除綁定後移除其供應商。成功傳送驗證碼後，按鈕顯示 30 秒重送倒數。切換帳號表單時重新隱藏密碼。\n• 修正首次新增自訂供應商、移除附件及研究助理重試的問題。",
+    "ja": "aPaper 0.1.2\n\n新機能\n• macOS のメニューバーからクイックリサーチを開き、ショートカットを設定・解除できます。\n• Paper Mentor が添付 PDF を引用し、アプリ内プレビューで該当箇所を強調表示します。\n\n改善\n• ワークスペースを離れずに添付ファイルをプレビューできます。引用への追加質問はメインの回答と並行して進み、待機中も添付ファイルを保持します。\n• 新規インストールではモデルを選択していません。更新時は既存のプロバイダーとモデルを保持し、非対応の推論強度は自動に戻します。\n\n修正\n• 対訳ボタンをどの翻訳先言語でも表示します。PDF の言語が翻訳先と同じ場合は、ボタンを赤くせず通知します。注釈の削除には確認が必要です。\n• 起動時にキャッシュ済みの Ergouzi モデルを読み込み、連携解除時にプロバイダーを削除します。認証コード送信後は再送までの 30 秒を表示し、フォーム切り替え時はパスワードを再び非表示にします。\n• カスタムプロバイダーの初回設定、添付ファイルの削除、Research Assistant の再試行を修正しました。",
+    "ko": "aPaper 0.1.2\n\n새 기능\n• macOS 메뉴 막대에서 빠른 연구를 열고 단축키를 설정하거나 지울 수 있습니다.\n• Paper Mentor가 첨부한 PDF를 인용하고 앱 내 미리보기에서 인용 구절을 강조합니다.\n\n개선\n• 작업공간을 벗어나지 않고 첨부파일을 미리 볼 수 있습니다. 인용 후속 질문은 기본 답변과 동시에 진행되며 대기 중에도 첨부파일을 유지합니다.\n• 새 설치에서는 모델이 선택되어 있지 않습니다. 업데이트 시 기존 제공업체와 모델 선택은 유지하고, 지원되지 않는 추론 강도만 자동으로 되돌립니다.\n\n수정\n• 모든 대상 언어에서 병렬 번역 버튼을 표시합니다. PDF 원문이 대상 언어와 같으면 버튼을 빨간색으로 바꾸지 않고 안내합니다. 주석 삭제 전에 확인합니다.\n• 시작 시 캐시된 Ergouzi 모델을 복원하고 연결 해제 시 해당 제공업체를 제거합니다. 인증 코드 발송 성공 후 30초 재발송 대기 시간을 표시하고, 계정 화면을 바꾸면 비밀번호를 다시 숨깁니다.\n• 사용자 지정 제공업체의 최초 설정, 첨부파일 제거, Research Assistant 재시도를 수정했습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.2-b1008",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.2-b1008/aPaper.dmg",
+    "bytes": 464570134,
+    "sha256": "798dbb219d599aadeb6c324edae43bae23136576e2cd0de53a504947301fd4a3"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.2-b1008",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.2-b1008/aPaper-0.1.2-b1008-macos-arm64.zip",
+    "bytes": 449183902,
+    "sha256": "8300b4c1b2fbeac7aaf9aa8e52bd25071cf423c989034b6ab9c53d7272b22236"
+  }
+}

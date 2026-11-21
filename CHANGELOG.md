@@ -2,6 +2,26 @@
 
 User-visible changes to the aPaper app. Unreleased entries are dated by integration; release headings use verified publication dates.
 
+## [0.1.3] - 2026-11-21
+
+### 2026-11-21
+
+#### Fixed
+
+- Show the selected update package size and skip known-incompatible delta updates before download.
+- Prevent update metadata checks from crashing when an appcast contains structured delta metadata.
+- Recover the linked Dogzee management token when local credentials are missing, including optional account-service bindings.
+
+### 2026-11-20
+
+#### Fixed
+
+- Request Documents access only after authorization, skip the step when access is already granted, and keep setup language state outside workspace data.
+
+#### Changed
+
+- Size the Quick Research shortcut button to its label.
+
 ## [0.1.2] - 2026-11-19
 
 ### 2026-11-19

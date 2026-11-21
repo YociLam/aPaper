@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.3",
+  "build": 1009,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "Apple Development",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-11-21T10:53:37Z",
+  "notes": {
+    "en": "aPaper 0.1.3\n\n• The update dialog shows the selected package size and skips known-incompatible deltas before download.\n• Setup asks for Documents access only after authorization and remembers the chosen language outside workspace data.\n• The Quick Research shortcut button fits its label.\n• Fixed a crash when reading appcasts containing structured delta metadata.\n• Reuse a linked Dogzee management token when local credentials are missing.\n• Fixed the Dogzee account-token recovery path for optional account-service bindings.",
+    "zh-Hans": "aPaper 0.1.3\n\n• 更新弹窗显示所选包大小，下载前跳过已知不兼容的差分包。\n• 仅在授权后请求文稿访问权限，并在工作区之外保存语言选择。\n• 快捷研究快捷键按钮宽度适配文字。\n• 修复读取含结构化差分元数据的更新清单时可能崩溃的问题。\n• 本地凭据缺失时复用已绑定二狗子的管理令牌。\n• 修正二狗子账号服务返回可选绑定时的账号令牌恢复路径。",
+    "zh-Hant": "aPaper 0.1.3\n\n• 更新視窗顯示所選套件大小，下載前略過已知不相容的差分套件。\n• 僅在授權後要求文件存取權限，並在工作區外保存語言選擇。\n• 快速研究快速鍵按鈕寬度適配文字。\n• 修正讀取含結構化差分中繼資料的更新清單時可能崩潰的問題。\n• 本機憑據缺失時複用已綁定二狗子的管理權杖。\n• 修正二狗子帳號服務回傳可選繫結時的帳號權杖恢復路徑。",
+    "ja": "aPaper 0.1.3\n\n• 更新ダイアログに選択パッケージのサイズを表示し、既知の非互換な差分をダウンロード前に除外します。\n• 許可後のみ書類フォルダへのアクセスを求め、言語選択を作業領域外に保存します。\n• クイックリサーチのショートカットボタンをラベル幅に合わせました。\n• 構造化された差分メタデータを含む更新一覧の読み込みで終了する問題を修正しました。\n• ローカル資格情報がない場合、リンク済みDogzeeの管理トークンを再利用します。\n• 二狗子のアカウントサービスが任意のバインディングを返す場合のトークン復旧を修正しました。",
+    "ko": "aPaper 0.1.3\n\n• 업데이트 창에 선택한 패키지 크기를 표시하고 호환되지 않는 차등 패키지는 다운로드 전에 건너뜁니다.\n• 권한을 허용한 뒤에만 문서 폴더 접근을 요청하고 언어 선택을 작업 공간 밖에 저장합니다.\n• 빠른 연구 단축키 버튼 너비가 레이블에 맞습니다.\n• 구조화된 차등 메타데이터가 포함된 업데이트 목록을 읽을 때 종료되는 문제를 수정했습니다.\n• 로컬 자격 증명이 없으면 연결된 Dogzee 관리 토큰을 재사용합니다.\n• 계정 서비스가 선택적 바인딩을 반환할 때 Dogzee 토큰 복구 경로를 수정했습니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.3-b1009",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.3-b1009/aPaper.dmg",
+    "bytes": 464600236,
+    "sha256": "3901a310e7de53c944924ff603d583dacda843221987351ced5a4bc398d025a1"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.3-b1009",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.3-b1009/aPaper-0.1.3-b1009-macos-arm64.zip",
+    "bytes": 449196823,
+    "sha256": "d818d3118ca29d1bae88af90c5bd366e1f56164e92fe832c4ec72bc18bff9c92"
+  }
+}

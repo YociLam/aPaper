@@ -1,6 +1,6 @@
 # Releases
 
-Current release: [0.1.2 (build 1008)](https://github.com/YociLam/aPaper/releases/tag/v0.1.2-b1008) · macOS 14.6+ / arm64 · Apple Development / unnotarized / sparkle-eddsa.
+Current release: [0.1.3 (build 1009)](https://github.com/YociLam/aPaper/releases/tag/v0.1.3-b1009) · macOS 14.6+ / arm64 · Apple Development / unnotarized / sparkle-eddsa.
 
 Download the latest installer and read what is new in [GitHub Releases](https://github.com/YociLam/aPaper/releases).
 

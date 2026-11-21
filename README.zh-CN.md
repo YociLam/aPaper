@@ -1,5 +1,7 @@
 <p align="center">
 
+当前发布：[0.1.3 (build 1009)](https://github.com/YociLam/aPaper/releases/tag/v0.1.3-b1009) · macOS 14.6+ / arm64 · Apple Development / unnotarized / sparkle-eddsa.
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/aPaper-hero.dark.png">
     <img src="./assets/aPaper-hero.light.png" alt="aPaper" width="980">

@@ -4,6 +4,14 @@ Current release: [0.1.3 (build 1009)](https://github.com/YociLam/aPaper/releases
 
 Download the latest installer and read what is new in [GitHub Releases](https://github.com/YociLam/aPaper/releases).
 
+## aPaper 0.1.4
+
+Published on November 25, 2026.
+
+[Download aPaper](https://github.com/YociLam/aPaper/releases/download/v0.1.4-b1010/aPaper.dmg) · [Installation guide](INSTALL.md) · [Full changelog](CHANGELOG.md)
+
+[English](releases/0.1.4/en.md) · [简体中文](releases/0.1.4/zh-Hans.md) · [繁體中文](releases/0.1.4/zh-Hant.md) · [日本語](releases/0.1.4/ja.md) · [한국어](releases/0.1.4/ko.md)
+
 ## aPaper 0.1.2
 
 Published on November 19, 2026.

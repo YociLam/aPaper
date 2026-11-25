@@ -14,7 +14,7 @@
 <p align="center">Discover papers, understand ideas, connect knowledge, and create new research on what you already understand.</p>
 
 <p align="center">
-  <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.3-2f6f62" alt="Version 0.1.3"></a>
+  <a href="RELEASES.md"><img src="https://img.shields.io/badge/version-0.1.4-2f6f62" alt="Version 0.1.4"></a>
   <img src="https://img.shields.io/badge/macOS-14.6%2B-16a085" alt="macOS 14.6 or later">
   <img src="https://img.shields.io/badge/Windows-Coming%20Soon-orange" alt="Windows Coming Soon">
 </p>

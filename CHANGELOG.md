@@ -2,6 +2,27 @@
 
 User-visible changes to the aPaper app. Unreleased entries are dated by integration; release headings use verified publication dates.
 
+## [0.1.4] - 2026-11-25
+
+### 2026-11-25
+
+#### Added
+
+- Receive rich announcements tailored to the app language and client. During use, the island shows a brief tap hint and a bell above the update button keeps unread messages accessible. Unread announcements open on the next launch, even offline.
+- Find the aPaper QQ group invitation in About when using Simplified or Traditional Chinese.
+
+#### Changed
+
+- Narrowing the main window hides the library sidebar, switches side-by-side reading to one pane, then hides the inspector. Widening the window restores the selected layout in reverse order, using the same transitions as the manual controls.
+- Use GPT 6.2 Sol at Medium as the Dogzee default for Paper Mentor, Research Assistant, and Knowledge Steward.
+
+#### Fixed
+
+- Restore the workspace and its announcement controls when reopening the main window from the Dock or Quick Research.
+- Open the local workspace even when an AI assistant role profile cannot be installed or validated.
+- When a provider rejects the selected reasoning level, try the same model's other eligible levels and remember the first successful level for matching requests.
+- Scroll long drafts inside the message composer and keep its expanded height after sending.
+
 ## [0.1.3] - 2026-11-21
 
 ### 2026-11-21

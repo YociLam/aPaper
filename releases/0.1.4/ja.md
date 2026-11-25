@@ -1,18 +1,29 @@
 # aPaper 0.1.4
 
-[English](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/en.md) | [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/zh-Hans.md) | [繁體中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/zh-Hant.md) | [日本語](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/ja.md) | [한국어](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/ko.md)
+[English](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/en.md) · [简体中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/zh-Hans.md) · [繁體中文](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/zh-Hant.md) · [日本語](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/ja.md) · [한국어](https://github.com/YociLam/aPaper/blob/main/releases/0.1.4/ko.md)
+
+通知を後から読めるようになりました。幅の狭いウインドウでも読みやすさを保ち、メインウインドウを開き直したときのワークスペース復元も改善しました。
 
 ## 新機能
 
-作業中はアイランドに言語別のお知らせを表示します。未読のお知らせはベルから確認でき、次回の起動時にも開きます。簡体字・繁体字中国語の「このアプリについて」に QQ グループへの招待を追加しました。
+- **リッチ通知**　クライアントと表示言語に合わせてお知らせを配信できます。パネルには書式付きテキスト、画像、リンク、操作ボタンを表示でき、動画リンクはブラウザで開きます。
+- **後で読む**　使用中はアイランドに短い通知が表示されます。通知または右下のベルをクリックすると本文が開きます。更新ボタンがある場合、ベルはその上に表示されます。保存済みの未読通知は次回起動時にオフラインでも開きます。既読にした後も新しい通知は届きます。
+- **コミュニティへの招待**　簡体字中国語・繁体字中国語の「このアプリについて」に、aPaper の QQ グループへの招待と QR コードを追加しました。
 
-## 改善と修正
+## 改善
 
-ウィンドウを狭めると、文献サイドバー、見開き表示、右パネルの順に折りたたみ、広げると逆順に復元します。
+- **ウインドウ幅に応じた表示**　幅を狭めると左の文献サイドバーが閉じ、次にリーダーが2ペインから1ペインに切り替わり、最後に右のパネルが閉じます。広げると元の設定を逆順に復元します。切り替えのアニメーションは手動操作と共通です。
+- **Dogzee の既定モデル**　Paper Mentor、Research Assistant、Knowledge Steward は、推論強度を中に設定した GPT 6.2 Sol を既定で使用します。
 
-長い下書きは入力欄内でスクロールでき、送信後も高さを保持します。ウィンドウを開き直すと作業領域を復元し、任意のアシスタント設定に失敗しても利用できます。Dogzee の既定は GPT 6.2 Sol の中程度の推論で、選んだレベルが拒否された場合は対応するレベルで再試行します。
+## 不具合の修正
+
+- **長い下書き**　ポインタを入力欄に置くと、会話の位置を保ったまま下書きだけをスクロールできます。送信後も入力欄の高さを維持します。
+- **ワークスペースの復元**　Dock やクイックリサーチからメインウインドウを開き直すと、ワークスペースと通知の操作部が復元されます。任意のアシスタント設定のインストールや検証に失敗しても作業を開始できます。
+- **推論強度の互換性**　サービスが指定の推論強度を拒否した場合、同じモデルで別の対応レベルを試し、最初に成功した設定を以降の同種のリクエストで再利用します。
 
 ## ダウンロードとインストール
+
+0.1.1、0.1.2、0.1.3 からは 0.1.4 に直接差分更新できます。差分を適用できない場合は完全版の更新パッケージを利用できます。0.1.0 は下記の DMG で手動更新してください。
 
 macOS 14.6 以降の Apple シリコン搭載 Mac で [DMG をダウンロード](https://github.com/YociLam/aPaper/releases/download/v0.1.4-b1010/aPaper.dmg)し、開いて aPaper を「アプリケーション」にドラッグします。手動で更新する場合は aPaper を終了してから置き換えてください。[インストールガイド](https://github.com/YociLam/aPaper/blob/main/INSTALL.md)も参照してください。
 

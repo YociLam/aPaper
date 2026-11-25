@@ -1,0 +1,38 @@
+{
+  "schema": "apaper-public-release/1",
+  "product": "aPaper",
+  "version": "0.1.4",
+  "build": 1010,
+  "platform": "macos",
+  "architecture": "arm64",
+  "minimumOS": "14.6",
+  "channel": "stable",
+  "signing": "Apple Development",
+  "notarized": false,
+  "installMode": "sparkle-eddsa",
+  "automaticInstallation": true,
+  "publishedAt": "2026-11-25T04:38:17Z",
+  "notes": {
+    "en": "Language-specific announcements appear in the island while you work. Unread messages stay available from the bell and open on the next launch. The QQ group invitation is available in About in Simplified and Traditional Chinese.\nNarrowing the reader hides the library sidebar, switches to one reading pane, then hides the inspector. Widening restores your layout in reverse order.\nScroll long drafts inside the composer and keep its height after sending. Reopening the window restores the workspace even when optional assistant setup fails. Dogzee uses GPT 6.2 Sol at Medium by default and can retry supported reasoning levels.",
+    "zh-Hans": "新增按语言推送的通知。使用中由灵动岛提醒，未读消息可从铃铛查看，下次启动会自动打开。简繁中文的「关于」页可找到 QQ 群邀请。\n缩窄窗口时依次收起文献侧栏、双栏阅读和右侧面板，拉宽后逆序恢复。\n长草稿可在输入框内滚动，发送后保留高度。重新打开窗口可恢复工作区，可选助手配置失败时也能进入。Dogzee 默认使用 GPT 6.2 Sol 的中等推理级别，可在服务拒绝当前级别时重试。",
+    "zh-Hant": "新增依語言推送的通知。使用時由動態島提醒，未讀訊息可從鈴鐺查看，下次啟動會自動開啟。繁簡中文的「關於」頁可找到 QQ 群邀請。\n縮窄視窗時依序收合文獻側欄、雙欄閱讀與右側面板，拉寬後依相反順序還原。\n長草稿可在輸入框內捲動，送出後保留高度。重新開啟視窗可還原工作區，選用的助理設定失敗時也能進入。Dogzee 預設使用 GPT 6.2 Sol 的中等推理層級，可在服務拒絕目前層級時重試。",
+    "ja": "作業中はアイランドに言語別のお知らせを表示します。未読のお知らせはベルから確認でき、次回の起動時にも開きます。簡体字・繁体字中国語の「このアプリについて」に QQ グループへの招待を追加しました。\nウィンドウを狭めると、文献サイドバー、見開き表示、右パネルの順に折りたたみ、広げると逆順に復元します。\n長い下書きは入力欄内でスクロールでき、送信後も高さを保持します。ウィンドウを開き直すと作業領域を復元し、任意のアシスタント設定に失敗しても利用できます。Dogzee の既定は GPT 6.2 Sol の中程度の推論で、選んだレベルが拒否された場合は対応するレベルで再試行します。",
+    "ko": "작업 중에는 언어별 공지를 아일랜드에 표시합니다. 읽지 않은 공지는 종 아이콘에서 확인할 수 있고 다음 실행 때 열립니다. 중국어 간체와 번체의 앱 정보에 QQ 그룹 초대를 추가했습니다.\n창을 좁히면 문헌 사이드바, 두 칸 읽기, 오른쪽 패널 순서로 접고 넓히면 역순으로 복원합니다.\n긴 초안은 입력창 안에서 스크롤할 수 있고 전송 후에도 높이가 유지됩니다. 창을 다시 열면 작업 공간이 복원되며 선택적 도우미 설정에 실패해도 사용할 수 있습니다. Dogzee는 기본으로 GPT 6.2 Sol의 중간 추론 수준을 사용하며 서비스가 해당 수준을 거부하면 지원하는 수준으로 다시 시도합니다."
+  },
+  "installer": {
+    "repository": "YociLam/aPaper",
+    "repositoryID": 1428580757,
+    "tag": "v0.1.4-b1010",
+    "url": "https://github.com/YociLam/aPaper/releases/download/v0.1.4-b1010/aPaper.dmg",
+    "bytes": 465302294,
+    "sha256": "007a5c20e0b9dc65abd390926052cbd435af83f68e31cfc15c18129b04615334"
+  },
+  "updateArchive": {
+    "repository": "YociLam/aPaper-Cloud",
+    "repositoryID": 1305956053,
+    "tag": "apaper-macos-v0.1.4-b1010",
+    "url": "https://github.com/YociLam/aPaper-Cloud/releases/download/apaper-macos-v0.1.4-b1010/aPaper-0.1.4-b1010-macos-arm64.zip",
+    "bytes": 449889745,
+    "sha256": "8d3942243c9a0be889826fc51e8d9ff3964fdcdcef414bcfc4231f0d002421e4"
+  }
+}
